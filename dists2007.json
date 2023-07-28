@@ -1,0 +1,1655 @@
+{
+    "1": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 23269,
+                "nr": 1,
+                "title": "Haabersti linnaosa",
+                "votes": 14861
+            },
+            {
+                "altnr": "II",
+                "eligible": 29500,
+                "nr": 2,
+                "title": "P\u00f5hja-Tallinna linnaosa",
+                "votes": 17111
+            },
+            {
+                "altnr": "III",
+                "eligible": 19739,
+                "nr": 3,
+                "title": "Kristiine linnaosa",
+                "votes": 12496
+            },
+            {
+                "altnr": "IV",
+                "eligible": 206,
+                "nr": 4,
+                "title": "v\u00e4lisriigid",
+                "votes": 206
+            },
+            {
+                "altnr": "V",
+                "nr": 5,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 3508
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                459
+            ],
+            "EESTI KESKERAKOND": [
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218
+            ],
+            "EESTI REFORMIERAKOND": [
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343
+            ],
+            "EESTI VASAKPARTEI": [
+                471
+            ],
+            "EESTIMAA RAHVALIIT": [
+                696,
+                697,
+                698,
+                699,
+                700,
+                701,
+                702,
+                703,
+                704,
+                705
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                946,
+                947,
+                948,
+                949,
+                950,
+                951,
+                952,
+                953,
+                954,
+                955
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                643,
+                644,
+                645,
+                646,
+                647,
+                648,
+                649
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                821,
+                822,
+                823,
+                824,
+                825,
+                826,
+                827,
+                828,
+                829,
+                830
+            ],
+            "VENE ERAKOND EESTIS": [
+                608,
+                609,
+                610,
+                611,
+                612
+            ],
+            "\u00dcKSIKKANDIDAADID": [
+                1071,
+                1076
+            ]
+        },
+        "m": 8
+    },
+    "2": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 31926,
+                "nr": 1,
+                "title": "Kesklinna linnaosa",
+                "votes": 19775
+            },
+            {
+                "altnr": "II",
+                "eligible": 57302,
+                "nr": 2,
+                "title": "Lasnam\u00e4e linnaosa",
+                "votes": 32940
+            },
+            {
+                "altnr": "III",
+                "eligible": 9655,
+                "nr": 3,
+                "title": "Pirita linnaosa",
+                "votes": 6752
+            },
+            {
+                "altnr": "IV",
+                "eligible": 416,
+                "nr": 4,
+                "title": "v\u00e4lisriigid",
+                "votes": 416
+            },
+            {
+                "altnr": "V",
+                "nr": 5,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 4499
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                460
+            ],
+            "EESTI KESKERAKOND": [
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231
+            ],
+            "EESTI REFORMIERAKOND": [
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356
+            ],
+            "EESTI VASAKPARTEI": [
+                472
+            ],
+            "EESTIMAA RAHVALIIT": [
+                706,
+                707,
+                708,
+                709,
+                710,
+                711,
+                712,
+                713,
+                714,
+                715,
+                716,
+                717,
+                718
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                956,
+                957,
+                958,
+                959,
+                960,
+                961,
+                962,
+                963,
+                964,
+                965,
+                966,
+                967,
+                968
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                493,
+                494,
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501,
+                502,
+                503,
+                504,
+                505
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                650,
+                651,
+                652,
+                653,
+                654,
+                655,
+                656,
+                657,
+                658,
+                659,
+                660,
+                661
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                831,
+                832,
+                833,
+                834,
+                835,
+                836,
+                837,
+                838,
+                839,
+                840,
+                841,
+                842,
+                843
+            ],
+            "VENE ERAKOND EESTIS": [
+                613,
+                614,
+                615,
+                616,
+                617
+            ]
+        },
+        "m": 11
+    },
+    "3": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 41499,
+                "nr": 1,
+                "title": "Mustam\u00e4e linnaosa",
+                "votes": 26322
+            },
+            {
+                "altnr": "II",
+                "eligible": 27951,
+                "nr": 2,
+                "title": "N\u00f5mme linnaosa",
+                "votes": 19087
+            },
+            {
+                "altnr": "III",
+                "eligible": 214,
+                "nr": 3,
+                "title": "v\u00e4lisriigid",
+                "votes": 214
+            },
+            {
+                "altnr": "IV",
+                "nr": 4,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 3694
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                461
+            ],
+            "EESTI KESKERAKOND": [
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241
+            ],
+            "EESTI REFORMIERAKOND": [
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366
+            ],
+            "EESTI VASAKPARTEI": [
+                473
+            ],
+            "EESTIMAA RAHVALIIT": [
+                719,
+                720,
+                721,
+                722,
+                723,
+                724,
+                725,
+                726,
+                727,
+                728
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                969,
+                970,
+                971,
+                972,
+                973,
+                974,
+                975,
+                976,
+                977,
+                978
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512,
+                513,
+                514,
+                515
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                662,
+                663,
+                664,
+                665,
+                666,
+                667,
+                668,
+                669
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                844,
+                845,
+                846,
+                847,
+                848,
+                849,
+                850,
+                851,
+                852,
+                853
+            ],
+            "VENE ERAKOND EESTIS": [
+                618,
+                619,
+                620,
+                621,
+                622
+            ],
+            "\u00dcKSIKKANDIDAADID": [
+                1072
+            ]
+        },
+        "m": 8
+    },
+    "4": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 90837,
+                "nr": 1,
+                "title": "Harju maakond",
+                "votes": 56277
+            },
+            {
+                "altnr": "II",
+                "eligible": 28614,
+                "nr": 2,
+                "title": "Rapla maakond",
+                "votes": 16838
+            },
+            {
+                "altnr": "III",
+                "eligible": 152,
+                "nr": 3,
+                "title": "v\u00e4lisriigid",
+                "votes": 152
+            },
+            {
+                "altnr": "IV",
+                "nr": 4,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 4934
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                462
+            ],
+            "EESTI KESKERAKOND": [
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256
+            ],
+            "EESTI REFORMIERAKOND": [
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381
+            ],
+            "EESTI VASAKPARTEI": [
+                474
+            ],
+            "EESTIMAA RAHVALIIT": [
+                729,
+                730,
+                731,
+                732,
+                733,
+                734,
+                735,
+                736,
+                737,
+                738,
+                739,
+                740,
+                741,
+                742,
+                743
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                979,
+                980,
+                981,
+                982,
+                983,
+                984,
+                985,
+                986,
+                987,
+                988,
+                989,
+                990,
+                991,
+                992,
+                993
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                516,
+                517,
+                518,
+                519,
+                520,
+                521,
+                522,
+                523,
+                524,
+                525,
+                526,
+                527,
+                528,
+                529,
+                530
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                670,
+                671,
+                672,
+                673
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                854,
+                855,
+                856,
+                857,
+                858,
+                859,
+                860,
+                861,
+                862,
+                863,
+                864,
+                865,
+                866,
+                867,
+                868
+            ],
+            "VENE ERAKOND EESTIS": [
+                623,
+                624
+            ],
+            "\u00dcKSIKKANDIDAADID": [
+                1075
+            ]
+        },
+        "m": 13
+    },
+    "5": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 8494,
+                "nr": 1,
+                "title": "Hiiu maakond",
+                "votes": 4777
+            },
+            {
+                "altnr": "II",
+                "eligible": 20961,
+                "nr": 2,
+                "title": "L\u00e4\u00e4ne maakond",
+                "votes": 11793
+            },
+            {
+                "altnr": "III",
+                "eligible": 28979,
+                "nr": 3,
+                "title": "Saare maakond",
+                "votes": 16017
+            },
+            {
+                "altnr": "IV",
+                "eligible": 177,
+                "nr": 4,
+                "title": "v\u00e4lisriigid",
+                "votes": 177
+            },
+            {
+                "altnr": "V",
+                "nr": 5,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 1684
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                463
+            ],
+            "EESTI KESKERAKOND": [
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265
+            ],
+            "EESTI REFORMIERAKOND": [
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390
+            ],
+            "EESTI VASAKPARTEI": [
+                475
+            ],
+            "EESTIMAA RAHVALIIT": [
+                744,
+                745,
+                746,
+                747,
+                748,
+                749,
+                750,
+                751,
+                752
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                994,
+                995,
+                996,
+                997,
+                998,
+                999,
+                1000,
+                1001,
+                1002
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                531,
+                532,
+                533,
+                534,
+                535,
+                536,
+                537,
+                538,
+                539
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                674,
+                675
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                869,
+                870,
+                871,
+                872,
+                873,
+                874,
+                875,
+                876,
+                877
+            ],
+            "VENE ERAKOND EESTIS": [
+                625
+            ]
+        },
+        "m": 7
+    },
+    "6": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 49425,
+                "nr": 1,
+                "title": "L\u00e4\u00e4ne-Viru maakond",
+                "votes": 27951
+            },
+            {
+                "altnr": "II",
+                "eligible": 136,
+                "nr": 2,
+                "title": "v\u00e4lisriigid",
+                "votes": 136
+            },
+            {
+                "altnr": "III",
+                "nr": 3,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 1157
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                464
+            ],
+            "EESTI KESKERAKOND": [
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273
+            ],
+            "EESTI REFORMIERAKOND": [
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398
+            ],
+            "EESTI VASAKPARTEI": [
+                476
+            ],
+            "EESTIMAA RAHVALIIT": [
+                753,
+                754,
+                755,
+                756,
+                757,
+                758,
+                759,
+                760
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                155,
+                156,
+                157,
+                158,
+                159,
+                160
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1003,
+                1004,
+                1005,
+                1006,
+                1007,
+                1008,
+                1009,
+                1010
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                540,
+                541,
+                542,
+                543,
+                544,
+                545,
+                546,
+                547
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                676
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                878,
+                879,
+                880,
+                881,
+                882,
+                883,
+                884,
+                885
+            ],
+            "VENE ERAKOND EESTIS": [
+                626,
+                627
+            ]
+        },
+        "m": 6
+    },
+    "7": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 68527,
+                "nr": 1,
+                "title": "Ida-Viru maakond",
+                "votes": 35409
+            },
+            {
+                "altnr": "II",
+                "eligible": 55,
+                "nr": 2,
+                "title": "v\u00e4lisriigid",
+                "votes": 55
+            },
+            {
+                "altnr": "III",
+                "nr": 3,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 877
+            }
+        ],
+        "c": {
+            "EESTI KESKERAKOND": [
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283
+            ],
+            "EESTI REFORMIERAKOND": [
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408
+            ],
+            "EESTI VASAKPARTEI": [
+                477
+            ],
+            "EESTIMAA RAHVALIIT": [
+                761,
+                762,
+                763,
+                764,
+                765,
+                766,
+                767,
+                768,
+                769,
+                770
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                161,
+                162,
+                163,
+                164,
+                165
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1011,
+                1012,
+                1013,
+                1014,
+                1015,
+                1016,
+                1017,
+                1018,
+                1019,
+                1020
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                548,
+                549,
+                550,
+                551,
+                552,
+                553,
+                554,
+                555,
+                556,
+                557
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                677,
+                678,
+                679,
+                680,
+                681,
+                682,
+                683
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                886,
+                887,
+                888,
+                889,
+                890,
+                891,
+                892,
+                893,
+                894,
+                895
+            ],
+            "VENE ERAKOND EESTIS": [
+                628,
+                629,
+                630,
+                631,
+                632,
+                633,
+                634,
+                635
+            ]
+        },
+        "m": 8
+    },
+    "8": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 28251,
+                "nr": 1,
+                "title": "J\u00e4rva maakond",
+                "votes": 15587
+            },
+            {
+                "altnr": "II",
+                "eligible": 43589,
+                "nr": 2,
+                "title": "Viljandi maakond",
+                "votes": 24833
+            },
+            {
+                "altnr": "III",
+                "eligible": 125,
+                "nr": 3,
+                "title": "v\u00e4lisriigid",
+                "votes": 125
+            },
+            {
+                "altnr": "IV",
+                "nr": 4,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 2037
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                466
+            ],
+            "EESTI KESKERAKOND": [
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                290,
+                291,
+                292,
+                293
+            ],
+            "EESTI REFORMIERAKOND": [
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418
+            ],
+            "EESTI VASAKPARTEI": [
+                478
+            ],
+            "EESTIMAA RAHVALIIT": [
+                771,
+                772,
+                773,
+                774,
+                775,
+                776,
+                777,
+                778,
+                779,
+                780
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1021,
+                1022,
+                1023,
+                1024,
+                1025,
+                1026,
+                1027,
+                1028,
+                1029,
+                1030
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                558,
+                559,
+                560,
+                561,
+                562,
+                563,
+                564,
+                565,
+                566,
+                567
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                684,
+                685,
+                686
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                896,
+                897,
+                898,
+                899,
+                900,
+                901,
+                902,
+                903,
+                904,
+                905
+            ],
+            "VENE ERAKOND EESTIS": [
+                636,
+                637
+            ]
+        },
+        "m": 8
+    },
+    "9": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 28284,
+                "nr": 1,
+                "title": "J\u00f5geva maakond",
+                "votes": 17001
+            },
+            {
+                "altnr": "II",
+                "eligible": 37355,
+                "nr": 2,
+                "title": "Tartu maakond",
+                "votes": 21953
+            },
+            {
+                "altnr": "III",
+                "eligible": 64,
+                "nr": 3,
+                "title": "v\u00e4lisriigid",
+                "votes": 64
+            },
+            {
+                "altnr": "IV",
+                "nr": 4,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 1612
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                467
+            ],
+            "EESTI KESKERAKOND": [
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302
+            ],
+            "EESTI REFORMIERAKOND": [
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427
+            ],
+            "EESTI VASAKPARTEI": [
+                479
+            ],
+            "EESTIMAA RAHVALIIT": [
+                781,
+                782,
+                783,
+                784,
+                785,
+                786,
+                787,
+                788,
+                789
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                174,
+                175,
+                176,
+                177,
+                178,
+                179
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1031,
+                1032,
+                1033,
+                1034,
+                1035,
+                1036,
+                1037,
+                1038,
+                1039
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                568,
+                569,
+                570,
+                571,
+                572,
+                573,
+                574,
+                575,
+                576
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                687,
+                688,
+                689
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                906,
+                907,
+                908,
+                909,
+                910,
+                911,
+                912,
+                913,
+                914
+            ],
+            "VENE ERAKOND EESTIS": [
+                638,
+                639
+            ],
+            "\u00dcKSIKKANDIDAADID": [
+                1073,
+                1074
+            ]
+        },
+        "m": 7
+    },
+    "10": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 71128,
+                "nr": 1,
+                "title": "Tartu linn",
+                "votes": 41827
+            },
+            {
+                "altnr": "II",
+                "eligible": 219,
+                "nr": 2,
+                "title": "v\u00e4lisriigid",
+                "votes": 219
+            },
+            {
+                "altnr": "III",
+                "nr": 3,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 2685
+            }
+        ],
+        "c": {
+            "EESTI KESKERAKOND": [
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312
+            ],
+            "EESTI REFORMIERAKOND": [
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437
+            ],
+            "EESTI VASAKPARTEI": [
+                480
+            ],
+            "EESTIMAA RAHVALIIT": [
+                790,
+                791,
+                792,
+                793,
+                794,
+                795,
+                796,
+                797,
+                798,
+                799
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1040,
+                1041,
+                1042,
+                1043,
+                1044,
+                1045,
+                1046,
+                1047,
+                1048,
+                1049
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                577,
+                578,
+                579,
+                580,
+                581,
+                582,
+                583,
+                584,
+                585,
+                586
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                690,
+                691
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                915,
+                916,
+                917,
+                918,
+                919,
+                920,
+                921,
+                922,
+                923,
+                924
+            ],
+            "VENE ERAKOND EESTIS": [
+                640
+            ]
+        },
+        "m": 8
+    },
+    "11": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 30526,
+                "nr": 1,
+                "title": "V\u00f5ru maakond",
+                "votes": 17629
+            },
+            {
+                "altnr": "II",
+                "eligible": 24985,
+                "nr": 2,
+                "title": "Valga maakond",
+                "votes": 13336
+            },
+            {
+                "altnr": "III",
+                "eligible": 25240,
+                "nr": 3,
+                "title": "P\u00f5lva maakond",
+                "votes": 14492
+            },
+            {
+                "altnr": "IV",
+                "eligible": 137,
+                "nr": 4,
+                "title": "v\u00e4lisriigid",
+                "votes": 137
+            },
+            {
+                "altnr": "V",
+                "nr": 5,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 1840
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                469
+            ],
+            "EESTI KESKERAKOND": [
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323
+            ],
+            "EESTI REFORMIERAKOND": [
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448
+            ],
+            "EESTI VASAKPARTEI": [
+                481
+            ],
+            "EESTIMAA RAHVALIIT": [
+                800,
+                801,
+                802,
+                803,
+                804,
+                805,
+                806,
+                807,
+                808,
+                809,
+                810
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1050,
+                1051,
+                1052,
+                1053,
+                1054,
+                1055,
+                1056,
+                1057,
+                1058,
+                1059,
+                1060
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                587,
+                588,
+                589,
+                590,
+                591,
+                592,
+                593,
+                594,
+                595,
+                596,
+                597
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                692,
+                693
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                925,
+                926,
+                927,
+                928,
+                929,
+                930,
+                931,
+                932,
+                933,
+                934,
+                935
+            ],
+            "VENE ERAKOND EESTIS": [
+                641
+            ]
+        },
+        "m": 9
+    },
+    "12": {
+        "arr": [
+            {
+                "altnr": "I",
+                "eligible": 69061,
+                "nr": 1,
+                "title": "P\u00e4rnu maakond",
+                "votes": 38010
+            },
+            {
+                "altnr": "II",
+                "eligible": 245,
+                "nr": 2,
+                "title": "v\u00e4lisriigid",
+                "votes": 245
+            },
+            {
+                "altnr": "III",
+                "nr": 3,
+                "title": "E-h\u00e4\u00e4led",
+                "votes": 1716
+            }
+        ],
+        "c": {
+            "EESTI ISESEISVUSPARTEI": [
+                470
+            ],
+            "EESTI KESKERAKOND": [
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333
+            ],
+            "EESTI REFORMIERAKOND": [
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458
+            ],
+            "EESTI VASAKPARTEI": [
+                482
+            ],
+            "EESTIMAA RAHVALIIT": [
+                811,
+                812,
+                813,
+                814,
+                815,
+                816,
+                817,
+                818,
+                819,
+                820
+            ],
+            "ERAKOND EESTI KRISTLIKUD DEMOKRAADID": [
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208
+            ],
+            "ERAKOND EESTIMAA ROHELISED": [
+                1061,
+                1062,
+                1063,
+                1064,
+                1065,
+                1066,
+                1067,
+                1068,
+                1069,
+                1070
+            ],
+            "ERAKOND ISAMAA JA RES PUBLICA LIIT": [
+                598,
+                599,
+                600,
+                601,
+                602,
+                603,
+                604,
+                605,
+                606,
+                607
+            ],
+            "KONSTITUTSIOONIERAKOND": [
+                694,
+                695
+            ],
+            "SOTSIAALDEMOKRAATLIK ERAKOND": [
+                936,
+                937,
+                938,
+                939,
+                940,
+                941,
+                942,
+                943,
+                944,
+                945
+            ],
+            "VENE ERAKOND EESTIS": [
+                642
+            ],
+            "\u00dcKSIKKANDIDAADID": [
+                1077
+            ]
+        },
+        "m": 8
+    }
+}

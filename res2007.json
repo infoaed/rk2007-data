@@ -1,0 +1,7802 @@
+[
+    {
+        "district": 1,
+        "electronic": 27,
+        "name": "Aleksander Einseln",
+        "number": 101,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 643
+    },
+    {
+        "district": 1,
+        "electronic": 8,
+        "name": "\u00dclo Niinem\u00e4gi",
+        "number": 104,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 213
+    },
+    {
+        "district": 1,
+        "electronic": 2,
+        "name": "\u00dclle Kalvik",
+        "number": 102,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 67
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Heigo Ausmees",
+        "number": 103,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 59
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Raul Kaljurand",
+        "number": 107,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 21
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Anneli Vinkel",
+        "number": 106,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 20
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Pille M\u00e4gila",
+        "number": 105,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 19
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Valli Raidma",
+        "number": 110,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 16
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Kai Maripuu",
+        "number": 109,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 13
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Maare Kuum",
+        "number": 108,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 9
+    },
+    {
+        "district": 1,
+        "electronic": 169,
+        "name": "Vilja Savisaar",
+        "number": 209,
+        "party": "EESTI KESKERAKOND",
+        "votes": 8531
+    },
+    {
+        "district": 1,
+        "electronic": 91,
+        "name": "Vladimir Velman",
+        "number": 210,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3342
+    },
+    {
+        "district": 1,
+        "electronic": 37,
+        "name": "Viktor Vassiljev",
+        "number": 213,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1588
+    },
+    {
+        "district": 1,
+        "electronic": 17,
+        "name": "Lauri Laasi",
+        "number": 211,
+        "party": "EESTI KESKERAKOND",
+        "votes": 705
+    },
+    {
+        "district": 1,
+        "electronic": 26,
+        "name": "Kalev Kallo",
+        "number": 215,
+        "party": "EESTI KESKERAKOND",
+        "votes": 455
+    },
+    {
+        "district": 1,
+        "electronic": 9,
+        "name": "Mihhail Korb",
+        "number": 216,
+        "party": "EESTI KESKERAKOND",
+        "votes": 420
+    },
+    {
+        "district": 1,
+        "electronic": 21,
+        "name": "M\u00e4rt Sults",
+        "number": 214,
+        "party": "EESTI KESKERAKOND",
+        "votes": 391
+    },
+    {
+        "district": 1,
+        "electronic": 5,
+        "name": "Andres Oper",
+        "number": 212,
+        "party": "EESTI KESKERAKOND",
+        "votes": 308
+    },
+    {
+        "district": 1,
+        "electronic": 6,
+        "name": "Juhan Hindov",
+        "number": 218,
+        "party": "EESTI KESKERAKOND",
+        "votes": 156
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Peeter J\u00e4rvelaid",
+        "number": 217,
+        "party": "EESTI KESKERAKOND",
+        "votes": 53
+    },
+    {
+        "district": 1,
+        "electronic": 723,
+        "name": "Rein Lang",
+        "number": 334,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 7025
+    },
+    {
+        "district": 1,
+        "electronic": 158,
+        "name": "Taavi R\u00f5ivas",
+        "number": 336,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1701
+    },
+    {
+        "district": 1,
+        "electronic": 41,
+        "name": "Erik Salum\u00e4e",
+        "number": 343,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 855
+    },
+    {
+        "district": 1,
+        "electronic": 62,
+        "name": "Tiina Lokk-Tramberg",
+        "number": 337,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 484
+    },
+    {
+        "district": 1,
+        "electronic": 46,
+        "name": "Tatjana Muravjova",
+        "number": 335,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 438
+    },
+    {
+        "district": 1,
+        "electronic": 54,
+        "name": "\u00dcllar Lanno",
+        "number": 339,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 411
+    },
+    {
+        "district": 1,
+        "electronic": 34,
+        "name": "Remo Holsmer",
+        "number": 338,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 358
+    },
+    {
+        "district": 1,
+        "electronic": 11,
+        "name": "Mart Aare",
+        "number": 342,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 279
+    },
+    {
+        "district": 1,
+        "electronic": 17,
+        "name": "Helge Hallika",
+        "number": 340,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 195
+    },
+    {
+        "district": 1,
+        "electronic": 5,
+        "name": "Ivo Nurga",
+        "number": 341,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 125
+    },
+    {
+        "district": 1,
+        "electronic": 16,
+        "name": "T\u00f5nu Kalvet",
+        "number": 459,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 131
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Riho Baumann",
+        "number": 471,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 82
+    },
+    {
+        "district": 1,
+        "electronic": 445,
+        "name": "Jaak Aaviksoo",
+        "number": 483,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 4241
+    },
+    {
+        "district": 1,
+        "electronic": 217,
+        "name": "Ken-Marti Vaher",
+        "number": 485,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2313
+    },
+    {
+        "district": 1,
+        "electronic": 166,
+        "name": "Andres Herkel",
+        "number": 484,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 1244
+    },
+    {
+        "district": 1,
+        "electronic": 62,
+        "name": "Tarmo Kruusim\u00e4e",
+        "number": 488,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 553
+    },
+    {
+        "district": 1,
+        "electronic": 26,
+        "name": "Helen H\u00e4\u00e4l",
+        "number": 492,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 261
+    },
+    {
+        "district": 1,
+        "electronic": 24,
+        "name": "Avo \u00dcprus",
+        "number": 489,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 232
+    },
+    {
+        "district": 1,
+        "electronic": 6,
+        "name": "Nikolai Stelmach",
+        "number": 491,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 179
+    },
+    {
+        "district": 1,
+        "electronic": 13,
+        "name": "Olavi-J\u00fcri Luik",
+        "number": 490,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 140
+    },
+    {
+        "district": 1,
+        "electronic": 18,
+        "name": "Kaupo Reede",
+        "number": 487,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 129
+    },
+    {
+        "district": 1,
+        "electronic": 9,
+        "name": "Tiit Sinissaar",
+        "number": 486,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 71
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Stanislav T\u0161erepanov",
+        "number": 608,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 47
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Lev Tolstoi",
+        "number": 609,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 32
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Oksana Bugait\u0161uk",
+        "number": 612,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 17
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Juri Kononov",
+        "number": 610,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 16
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Anatoli \u0160estakov",
+        "number": 611,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 8
+    },
+    {
+        "district": 1,
+        "electronic": 7,
+        "name": "Andrei Zarenkov",
+        "number": 643,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 448
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Juri \u017duravljov",
+        "number": 647,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 70
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Anatoli Jegorov",
+        "number": 645,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 67
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Andrei Arjupin",
+        "number": 644,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 55
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Natalja Volosova",
+        "number": 649,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 46
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Jan Linter",
+        "number": 646,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 25
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Jaan Vaag",
+        "number": 648,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 5
+    },
+    {
+        "district": 1,
+        "electronic": 18,
+        "name": "Aivar S\u00f5erd",
+        "number": 696,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 233
+    },
+    {
+        "district": 1,
+        "electronic": 12,
+        "name": "Aivar Kuusmaa",
+        "number": 697,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 113
+    },
+    {
+        "district": 1,
+        "electronic": 5,
+        "name": "Leonid Tsingisser",
+        "number": 698,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 53
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Dmitri Bud\u00f5lin",
+        "number": 701,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 38
+    },
+    {
+        "district": 1,
+        "electronic": 2,
+        "name": "T\u00f5nis R\u00fc\u00fctel",
+        "number": 699,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 36
+    },
+    {
+        "district": 1,
+        "electronic": 3,
+        "name": "Heidy Tamme",
+        "number": 704,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 36
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Andres Ergma",
+        "number": 700,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 19
+    },
+    {
+        "district": 1,
+        "electronic": 2,
+        "name": "Reemet Pauk",
+        "number": 705,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 18
+    },
+    {
+        "district": 1,
+        "electronic": 0,
+        "name": "Dmitri Petrjakov",
+        "number": 703,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 15
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Milvi Punt",
+        "number": 702,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 12
+    },
+    {
+        "district": 1,
+        "electronic": 281,
+        "name": "Eiki Nestor",
+        "number": 821,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 2615
+    },
+    {
+        "district": 1,
+        "electronic": 79,
+        "name": "Maimu Berg",
+        "number": 822,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 802
+    },
+    {
+        "district": 1,
+        "electronic": 70,
+        "name": "Hardi Volmer",
+        "number": 826,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 642
+    },
+    {
+        "district": 1,
+        "electronic": 9,
+        "name": "Jaak Juske",
+        "number": 823,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 124
+    },
+    {
+        "district": 1,
+        "electronic": 12,
+        "name": "Ardi Ravalepik",
+        "number": 830,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 67
+    },
+    {
+        "district": 1,
+        "electronic": 8,
+        "name": "Silvia Jakobsen",
+        "number": 827,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 66
+    },
+    {
+        "district": 1,
+        "electronic": 4,
+        "name": "Lauri Laats",
+        "number": 829,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 64
+    },
+    {
+        "district": 1,
+        "electronic": 10,
+        "name": "Ardo Ojasalu",
+        "number": 824,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 62
+    },
+    {
+        "district": 1,
+        "electronic": 5,
+        "name": "J\u00fcri-Karl Seim",
+        "number": 825,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 43
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Andrus P\u00f5ldre",
+        "number": 828,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 13
+    },
+    {
+        "district": 1,
+        "electronic": 135,
+        "name": "Peeter Jalakas",
+        "number": 947,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1259
+    },
+    {
+        "district": 1,
+        "electronic": 117,
+        "name": "Agu Kivim\u00e4gi",
+        "number": 946,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1072
+    },
+    {
+        "district": 1,
+        "electronic": 57,
+        "name": "Maret Merisaar",
+        "number": 948,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 443
+    },
+    {
+        "district": 1,
+        "electronic": 21,
+        "name": "Sven-Erik Soosaar",
+        "number": 951,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 221
+    },
+    {
+        "district": 1,
+        "electronic": 19,
+        "name": "Eero Uustalu",
+        "number": 955,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 110
+    },
+    {
+        "district": 1,
+        "electronic": 4,
+        "name": "Inge Veskim\u00e4gi",
+        "number": 950,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 103
+    },
+    {
+        "district": 1,
+        "electronic": 7,
+        "name": "Peeter Kaber",
+        "number": 952,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 63
+    },
+    {
+        "district": 1,
+        "electronic": 5,
+        "name": "Olev-Andres Tinn",
+        "number": 949,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 62
+    },
+    {
+        "district": 1,
+        "electronic": 8,
+        "name": "Reigo Lehtla",
+        "number": 953,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 50
+    },
+    {
+        "district": 1,
+        "electronic": 4,
+        "name": "Jaanus Raim",
+        "number": 954,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 38
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Svetlana Ivnitskaja",
+        "number": 1071,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 27
+    },
+    {
+        "district": 1,
+        "electronic": 1,
+        "name": "Niina-Inessa Stepanova",
+        "number": 1076,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 11
+    },
+    {
+        "district": 2,
+        "electronic": 25,
+        "name": "Peeter V\u00f5su",
+        "number": 111,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 549
+    },
+    {
+        "district": 2,
+        "electronic": 10,
+        "name": "Tiina M\u00e4gi",
+        "number": 115,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 188
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Irina Stelmach",
+        "number": 112,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 53
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "J\u00fcri Raudsepp",
+        "number": 119,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 53
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Andres Piir",
+        "number": 121,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 46
+    },
+    {
+        "district": 2,
+        "electronic": 4,
+        "name": "T\u00f5nu Kallas",
+        "number": 118,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 27
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Jaane Vinkel",
+        "number": 114,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 24
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Mare Siirak",
+        "number": 117,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 20
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Ants Raidma",
+        "number": 123,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 14
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Rein Parkja",
+        "number": 113,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 13
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Indrek-Eliel Tambek",
+        "number": 116,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 13
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Sergei \u00d5itspuu",
+        "number": 120,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 8
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "K\u00e4tlin Rost",
+        "number": 122,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 5
+    },
+    {
+        "district": 2,
+        "electronic": 343,
+        "name": "Edgar Savisaar",
+        "number": 219,
+        "party": "EESTI KESKERAKOND",
+        "votes": 18003
+    },
+    {
+        "district": 2,
+        "electronic": 85,
+        "name": "Olga S\u00f5tnik",
+        "number": 230,
+        "party": "EESTI KESKERAKOND",
+        "votes": 2198
+    },
+    {
+        "district": 2,
+        "electronic": 57,
+        "name": "Rein Ratas",
+        "number": 224,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1463
+    },
+    {
+        "district": 2,
+        "electronic": 22,
+        "name": "Nelli Privalova",
+        "number": 220,
+        "party": "EESTI KESKERAKOND",
+        "votes": 934
+    },
+    {
+        "district": 2,
+        "electronic": 34,
+        "name": "Evelyn Sepp",
+        "number": 225,
+        "party": "EESTI KESKERAKOND",
+        "votes": 565
+    },
+    {
+        "district": 2,
+        "electronic": 11,
+        "name": "Kalle Klandorf",
+        "number": 223,
+        "party": "EESTI KESKERAKOND",
+        "votes": 335
+    },
+    {
+        "district": 2,
+        "electronic": 11,
+        "name": "Toomas Vitsut",
+        "number": 231,
+        "party": "EESTI KESKERAKOND",
+        "votes": 320
+    },
+    {
+        "district": 2,
+        "electronic": 5,
+        "name": "Eino Baskin",
+        "number": 221,
+        "party": "EESTI KESKERAKOND",
+        "votes": 266
+    },
+    {
+        "district": 2,
+        "electronic": 9,
+        "name": "Larissa \u0160kurat",
+        "number": 227,
+        "party": "EESTI KESKERAKOND",
+        "votes": 243
+    },
+    {
+        "district": 2,
+        "electronic": 11,
+        "name": "Enno Tamm",
+        "number": 229,
+        "party": "EESTI KESKERAKOND",
+        "votes": 210
+    },
+    {
+        "district": 2,
+        "electronic": 11,
+        "name": "K\u00fcllo Arjakas",
+        "number": 222,
+        "party": "EESTI KESKERAKOND",
+        "votes": 198
+    },
+    {
+        "district": 2,
+        "electronic": 6,
+        "name": "Heido Vitsur",
+        "number": 226,
+        "party": "EESTI KESKERAKOND",
+        "votes": 125
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Marek J\u00fcrgenson",
+        "number": 228,
+        "party": "EESTI KESKERAKOND",
+        "votes": 53
+    },
+    {
+        "district": 2,
+        "electronic": 761,
+        "name": "Keit Pentus",
+        "number": 344,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 7049
+    },
+    {
+        "district": 2,
+        "electronic": 206,
+        "name": "J\u00fcrgen Ligi",
+        "number": 345,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1656
+    },
+    {
+        "district": 2,
+        "electronic": 86,
+        "name": "\u00dclle Rajasalu",
+        "number": 347,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1020
+    },
+    {
+        "district": 2,
+        "electronic": 67,
+        "name": "Katrin Karisma-Krumm",
+        "number": 349,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 979
+    },
+    {
+        "district": 2,
+        "electronic": 109,
+        "name": "Kristen Michal",
+        "number": 346,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 914
+    },
+    {
+        "district": 2,
+        "electronic": 25,
+        "name": "Mati Eliste",
+        "number": 352,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 487
+    },
+    {
+        "district": 2,
+        "electronic": 39,
+        "name": "Anna-Maria Galojan",
+        "number": 351,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 462
+    },
+    {
+        "district": 2,
+        "electronic": 49,
+        "name": "Kalev Kukk",
+        "number": 350,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 346
+    },
+    {
+        "district": 2,
+        "electronic": 19,
+        "name": "Sergei Ivanov",
+        "number": 348,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 257
+    },
+    {
+        "district": 2,
+        "electronic": 30,
+        "name": "Riho Kruuv",
+        "number": 353,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 234
+    },
+    {
+        "district": 2,
+        "electronic": 5,
+        "name": "Talis Kitsing",
+        "number": 356,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 68
+    },
+    {
+        "district": 2,
+        "electronic": 6,
+        "name": "Tiit Soorm",
+        "number": 355,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 51
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Andrei Gritskov",
+        "number": 354,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 30
+    },
+    {
+        "district": 2,
+        "electronic": 8,
+        "name": "Peeter Paemurru",
+        "number": 460,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 114
+    },
+    {
+        "district": 2,
+        "electronic": 7,
+        "name": "Sirje Kingsepp",
+        "number": 472,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 74
+    },
+    {
+        "district": 2,
+        "electronic": 985,
+        "name": "Mart Laar",
+        "number": 493,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 9237
+    },
+    {
+        "district": 2,
+        "electronic": 86,
+        "name": "Toomas T\u00f5niste",
+        "number": 495,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 909
+    },
+    {
+        "district": 2,
+        "electronic": 49,
+        "name": "Indrek Raudne",
+        "number": 505,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 500
+    },
+    {
+        "district": 2,
+        "electronic": 41,
+        "name": "Sven Sester",
+        "number": 494,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 387
+    },
+    {
+        "district": 2,
+        "electronic": 32,
+        "name": "Ott Lumi",
+        "number": 496,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 324
+    },
+    {
+        "district": 2,
+        "electronic": 32,
+        "name": "Liisa-Ly Pakosta",
+        "number": 499,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 313
+    },
+    {
+        "district": 2,
+        "electronic": 31,
+        "name": "Lagle Parek",
+        "number": 504,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 300
+    },
+    {
+        "district": 2,
+        "electronic": 24,
+        "name": "Toivo J\u00fcrgenson",
+        "number": 497,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 234
+    },
+    {
+        "district": 2,
+        "electronic": 11,
+        "name": "Ago-Endrik Kerge",
+        "number": 500,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 126
+    },
+    {
+        "district": 2,
+        "electronic": 17,
+        "name": "Tiit Matsulevit\u0161",
+        "number": 498,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 113
+    },
+    {
+        "district": 2,
+        "electronic": 10,
+        "name": "J\u00fcri Trei",
+        "number": 502,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 101
+    },
+    {
+        "district": 2,
+        "electronic": 12,
+        "name": "Liis Klaar",
+        "number": 503,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 99
+    },
+    {
+        "district": 2,
+        "electronic": 6,
+        "name": "Anna-Greta Tsahkna",
+        "number": 501,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 68
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Andrei Sorokolet",
+        "number": 613,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 56
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Aleksandr Belanov",
+        "number": 614,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 30
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Viktooria Bold\u00f5reva",
+        "number": 615,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 26
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Ljubov Koz\u00f5rkova",
+        "number": 616,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 20
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Irina Lairand",
+        "number": 617,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 14
+    },
+    {
+        "district": 2,
+        "electronic": 35,
+        "name": "Dimitri Klenski",
+        "number": 650,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 1064
+    },
+    {
+        "district": 2,
+        "electronic": 7,
+        "name": "Dmitri Linter",
+        "number": 651,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 122
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Andrei Berezin",
+        "number": 652,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 67
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Tatjana Gordejeva",
+        "number": 653,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 52
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Oleg Kulikov",
+        "number": 654,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 29
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Larissa Ne\u0161t\u0161adimova",
+        "number": 655,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 28
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Peep Sarapuu",
+        "number": 656,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 24
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Sergei Suhhorukov",
+        "number": 660,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 19
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Karen Drambjan",
+        "number": 661,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 16
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Svetlana Kungurova",
+        "number": 658,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 16
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Tatjana Antjukova",
+        "number": 659,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 16
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Aleksandra Tarasenko",
+        "number": 657,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 9
+    },
+    {
+        "district": 2,
+        "electronic": 14,
+        "name": "Margus Leivo",
+        "number": 706,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 258
+    },
+    {
+        "district": 2,
+        "electronic": 6,
+        "name": "Ene Tomberg",
+        "number": 707,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 132
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "J\u00fcri Trumm",
+        "number": 708,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 99
+    },
+    {
+        "district": 2,
+        "electronic": 4,
+        "name": "Aleksei Bud\u00f5lin",
+        "number": 709,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 79
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Rein T\u00f6lp",
+        "number": 710,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 53
+    },
+    {
+        "district": 2,
+        "electronic": 7,
+        "name": "Jevgeni Golikov",
+        "number": 717,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 41
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Triin Uibo",
+        "number": 718,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 39
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Rain V\u00e4ndre",
+        "number": 711,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 39
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Vaike N\u00f5mm",
+        "number": 716,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 31
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Maia Lust",
+        "number": 715,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 25
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Kaarel Jaak Roosaare",
+        "number": 714,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 13
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Vitali Faktulin",
+        "number": 712,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 10
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Siimu Loogma",
+        "number": 713,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 10
+    },
+    {
+        "district": 2,
+        "electronic": 195,
+        "name": "Katrin Saks",
+        "number": 831,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 2026
+    },
+    {
+        "district": 2,
+        "electronic": 215,
+        "name": "Hannes Rumm",
+        "number": 832,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1504
+    },
+    {
+        "district": 2,
+        "electronic": 36,
+        "name": "Jaak Kangilaski",
+        "number": 835,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 400
+    },
+    {
+        "district": 2,
+        "electronic": 39,
+        "name": "Enn Vetemaa",
+        "number": 834,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 383
+    },
+    {
+        "district": 2,
+        "electronic": 22,
+        "name": "Reet Laja",
+        "number": 833,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 227
+    },
+    {
+        "district": 2,
+        "electronic": 8,
+        "name": "Ester Pruuden",
+        "number": 836,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 105
+    },
+    {
+        "district": 2,
+        "electronic": 7,
+        "name": "Arvo Uukkivi",
+        "number": 838,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 70
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Sergei Hohlov-Simson",
+        "number": 841,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 39
+    },
+    {
+        "district": 2,
+        "electronic": 1,
+        "name": "Ege Hirv",
+        "number": 837,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 36
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Artur Lepik",
+        "number": 843,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 36
+    },
+    {
+        "district": 2,
+        "electronic": 4,
+        "name": "Hermo Kuusk",
+        "number": 842,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 24
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Imbi Masing",
+        "number": 839,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 22
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Oleg Gogin",
+        "number": 840,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 16
+    },
+    {
+        "district": 2,
+        "electronic": 209,
+        "name": "Villu Tamme",
+        "number": 957,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1968
+    },
+    {
+        "district": 2,
+        "electronic": 144,
+        "name": "Anti Poolamets",
+        "number": 956,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1292
+    },
+    {
+        "district": 2,
+        "electronic": 32,
+        "name": "J\u00fcri Lember",
+        "number": 959,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 216
+    },
+    {
+        "district": 2,
+        "electronic": 15,
+        "name": "Kai K\u00fcnnis-Beres",
+        "number": 958,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 165
+    },
+    {
+        "district": 2,
+        "electronic": 14,
+        "name": "Paul Tammert",
+        "number": 962,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 119
+    },
+    {
+        "district": 2,
+        "electronic": 14,
+        "name": "Aivar M\u00f5ttus",
+        "number": 963,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 100
+    },
+    {
+        "district": 2,
+        "electronic": 6,
+        "name": "Marju \u00d5unpuu",
+        "number": 964,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 74
+    },
+    {
+        "district": 2,
+        "electronic": 4,
+        "name": "Aleksander Laane",
+        "number": 961,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 60
+    },
+    {
+        "district": 2,
+        "electronic": 6,
+        "name": "Irina Blinova",
+        "number": 960,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 50
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Stella Tillo",
+        "number": 966,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 39
+    },
+    {
+        "district": 2,
+        "electronic": 2,
+        "name": "Kristi Sims",
+        "number": 965,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 36
+    },
+    {
+        "district": 2,
+        "electronic": 3,
+        "name": "Aljona Lukjanova",
+        "number": 968,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 28
+    },
+    {
+        "district": 2,
+        "electronic": 0,
+        "name": "Ilja Nesterov",
+        "number": 967,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 25
+    },
+    {
+        "district": 3,
+        "electronic": 21,
+        "name": "Aldo Vinkel",
+        "number": 124,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 588
+    },
+    {
+        "district": 3,
+        "electronic": 7,
+        "name": "Veikko V\u00f5su",
+        "number": 125,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 98
+    },
+    {
+        "district": 3,
+        "electronic": 4,
+        "name": "Tarmo Teekel",
+        "number": 132,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 52
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Helen Veesalu",
+        "number": 126,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 37
+    },
+    {
+        "district": 3,
+        "electronic": 3,
+        "name": "Joel Rang",
+        "number": 131,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 35
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Aleksander Leemet",
+        "number": 127,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 31
+    },
+    {
+        "district": 3,
+        "electronic": 1,
+        "name": "Raul K\u00f6\u00f6p",
+        "number": 130,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 24
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Janno Tults",
+        "number": 128,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 18
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Ainar Assuk\u00fcll",
+        "number": 129,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 15
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Andrus Puju",
+        "number": 133,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 10
+    },
+    {
+        "district": 3,
+        "electronic": 142,
+        "name": "J\u00fcri Ratas",
+        "number": 232,
+        "party": "EESTI KESKERAKOND",
+        "votes": 6109
+    },
+    {
+        "district": 3,
+        "electronic": 33,
+        "name": "Enn Eesmaa",
+        "number": 233,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1420
+    },
+    {
+        "district": 3,
+        "electronic": 19,
+        "name": "Margarita T\u0161ernogorova",
+        "number": 235,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1118
+    },
+    {
+        "district": 3,
+        "electronic": 17,
+        "name": "Kalle Mihkels",
+        "number": 236,
+        "party": "EESTI KESKERAKOND",
+        "votes": 887
+    },
+    {
+        "district": 3,
+        "electronic": 17,
+        "name": "Helle Kalda",
+        "number": 234,
+        "party": "EESTI KESKERAKOND",
+        "votes": 838
+    },
+    {
+        "district": 3,
+        "electronic": 13,
+        "name": "Merike Martinson",
+        "number": 237,
+        "party": "EESTI KESKERAKOND",
+        "votes": 473
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "Rainer Vakra",
+        "number": 241,
+        "party": "EESTI KESKERAKOND",
+        "votes": 467
+    },
+    {
+        "district": 3,
+        "electronic": 6,
+        "name": "Sergei Bogovski",
+        "number": 240,
+        "party": "EESTI KESKERAKOND",
+        "votes": 409
+    },
+    {
+        "district": 3,
+        "electronic": 15,
+        "name": "Margus Metstak",
+        "number": 238,
+        "party": "EESTI KESKERAKOND",
+        "votes": 200
+    },
+    {
+        "district": 3,
+        "electronic": 4,
+        "name": "Kaia J\u00e4ppinen",
+        "number": 239,
+        "party": "EESTI KESKERAKOND",
+        "votes": 171
+    },
+    {
+        "district": 3,
+        "electronic": 739,
+        "name": "Urmas Paet",
+        "number": 357,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 8685
+    },
+    {
+        "district": 3,
+        "electronic": 312,
+        "name": "Maret Maripuu",
+        "number": 358,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 3298
+    },
+    {
+        "district": 3,
+        "electronic": 181,
+        "name": "Raivo J\u00e4rvi",
+        "number": 361,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1545
+    },
+    {
+        "district": 3,
+        "electronic": 121,
+        "name": "Paul-Eerik Rummo",
+        "number": 359,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 916
+    },
+    {
+        "district": 3,
+        "electronic": 81,
+        "name": "Hanno Pevkur",
+        "number": 360,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 835
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "Marju L\u00e4nik",
+        "number": 362,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 201
+    },
+    {
+        "district": 3,
+        "electronic": 20,
+        "name": "Kairi K\u00e4rner",
+        "number": 366,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 190
+    },
+    {
+        "district": 3,
+        "electronic": 11,
+        "name": "Robert Kalm",
+        "number": 365,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 123
+    },
+    {
+        "district": 3,
+        "electronic": 8,
+        "name": "Vello Vetevool",
+        "number": 364,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 80
+    },
+    {
+        "district": 3,
+        "electronic": 1,
+        "name": "Igor Kravt\u0161enko",
+        "number": 363,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 78
+    },
+    {
+        "district": 3,
+        "electronic": 13,
+        "name": "Henn P\u00f5lluaas",
+        "number": 461,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 125
+    },
+    {
+        "district": 3,
+        "electronic": 4,
+        "name": "Heino R\u00fc\u00fctel",
+        "number": 473,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 43
+    },
+    {
+        "district": 3,
+        "electronic": 280,
+        "name": "Juhan Parts",
+        "number": 506,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2975
+    },
+    {
+        "district": 3,
+        "electronic": 260,
+        "name": "Lauri Vahtre",
+        "number": 507,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2047
+    },
+    {
+        "district": 3,
+        "electronic": 157,
+        "name": "Urmas Reinsalu",
+        "number": 509,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 1888
+    },
+    {
+        "district": 3,
+        "electronic": 90,
+        "name": "Mart Nutt",
+        "number": 508,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 887
+    },
+    {
+        "district": 3,
+        "electronic": 69,
+        "name": "Olav Aarna",
+        "number": 511,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 537
+    },
+    {
+        "district": 3,
+        "electronic": 51,
+        "name": "Epp Alatalu",
+        "number": 510,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 364
+    },
+    {
+        "district": 3,
+        "electronic": 25,
+        "name": "Siim-Valmar Kiisler",
+        "number": 513,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 285
+    },
+    {
+        "district": 3,
+        "electronic": 26,
+        "name": "Andres \u00d6pik",
+        "number": 514,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 209
+    },
+    {
+        "district": 3,
+        "electronic": 8,
+        "name": "Matti Tarum",
+        "number": 512,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 107
+    },
+    {
+        "district": 3,
+        "electronic": 3,
+        "name": "Erik Sandla",
+        "number": 515,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 85
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Pavel Kirillov",
+        "number": 618,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 47
+    },
+    {
+        "district": 3,
+        "electronic": 4,
+        "name": "Svetlana Sahharova",
+        "number": 620,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 32
+    },
+    {
+        "district": 3,
+        "electronic": 1,
+        "name": "Viktor Trubits\u00f5n",
+        "number": 622,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 14
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Sergei Aunpuu",
+        "number": 621,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 10
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Ljudmilla Prantsuzova",
+        "number": 619,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 7
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "Vladimir Afanasjev",
+        "number": 662,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 248
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Pavel Titov",
+        "number": 664,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 67
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Olga Sergejeva",
+        "number": 663,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 63
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "J\u00fcri \u017durba",
+        "number": 667,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 41
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Dmitri Izotov",
+        "number": 665,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 21
+    },
+    {
+        "district": 3,
+        "electronic": 1,
+        "name": "Georgi Preobra\u017eenski",
+        "number": 666,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 18
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Olga T\u0161erkezjan",
+        "number": 669,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 17
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Andrei \u0160irjajev",
+        "number": 668,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 14
+    },
+    {
+        "district": 3,
+        "electronic": 34,
+        "name": "Erika Salum\u00e4e",
+        "number": 719,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 576
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "Peeter Mardna",
+        "number": 720,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 159
+    },
+    {
+        "district": 3,
+        "electronic": 4,
+        "name": "Rodion Denissov",
+        "number": 722,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 56
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Viivi S\u00f5merik",
+        "number": 726,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 25
+    },
+    {
+        "district": 3,
+        "electronic": 3,
+        "name": "Raivar Vaher",
+        "number": 728,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 24
+    },
+    {
+        "district": 3,
+        "electronic": 1,
+        "name": "Aavo P\u00f5hjala",
+        "number": 721,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 21
+    },
+    {
+        "district": 3,
+        "electronic": 5,
+        "name": "T\u00f5nu K\u00f5rda",
+        "number": 725,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 18
+    },
+    {
+        "district": 3,
+        "electronic": 1,
+        "name": "Juhan Telgmaa",
+        "number": 723,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 15
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Svetlana Lozovaja",
+        "number": 724,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 11
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Sirje Vullo",
+        "number": 727,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 4
+    },
+    {
+        "district": 3,
+        "electronic": 285,
+        "name": "Peeter Kreitzberg",
+        "number": 844,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 3606
+    },
+    {
+        "district": 3,
+        "electronic": 48,
+        "name": "Merle Karusoo",
+        "number": 845,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 629
+    },
+    {
+        "district": 3,
+        "electronic": 29,
+        "name": "Hagi \u0160ein",
+        "number": 847,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 299
+    },
+    {
+        "district": 3,
+        "electronic": 34,
+        "name": "\u00dclo Kaevats",
+        "number": 846,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 201
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "Indrek Hirv",
+        "number": 852,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 70
+    },
+    {
+        "district": 3,
+        "electronic": 3,
+        "name": "Gerd Tarand",
+        "number": 848,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 58
+    },
+    {
+        "district": 3,
+        "electronic": 8,
+        "name": "Tiia Tiik",
+        "number": 853,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 55
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "Marju Toom",
+        "number": 849,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 38
+    },
+    {
+        "district": 3,
+        "electronic": 5,
+        "name": "Piret Kruuser",
+        "number": 851,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 31
+    },
+    {
+        "district": 3,
+        "electronic": 2,
+        "name": "Lennart M\u00e4ngli",
+        "number": 850,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 15
+    },
+    {
+        "district": 3,
+        "electronic": 176,
+        "name": "Tanel Tammet",
+        "number": 969,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1416
+    },
+    {
+        "district": 3,
+        "electronic": 87,
+        "name": "T\u00f5nu Trubetsky",
+        "number": 970,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1138
+    },
+    {
+        "district": 3,
+        "electronic": 55,
+        "name": "Tiit K\u00e4bin",
+        "number": 972,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 593
+    },
+    {
+        "district": 3,
+        "electronic": 31,
+        "name": "Katrin Idla",
+        "number": 971,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 269
+    },
+    {
+        "district": 3,
+        "electronic": 9,
+        "name": "T\u00f5nu Ploompuu",
+        "number": 975,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 119
+    },
+    {
+        "district": 3,
+        "electronic": 12,
+        "name": "Ott K\u00f6stner",
+        "number": 973,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 84
+    },
+    {
+        "district": 3,
+        "electronic": 7,
+        "name": "Urve Madar",
+        "number": 978,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 70
+    },
+    {
+        "district": 3,
+        "electronic": 5,
+        "name": "Jako Kull",
+        "number": 977,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 54
+    },
+    {
+        "district": 3,
+        "electronic": 10,
+        "name": "R\u00e4ni Meister",
+        "number": 976,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 53
+    },
+    {
+        "district": 3,
+        "electronic": 0,
+        "name": "Alvi Rand",
+        "number": 974,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 25
+    },
+    {
+        "district": 3,
+        "electronic": 4,
+        "name": "Koit Luus",
+        "number": 1072,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 111
+    },
+    {
+        "district": 4,
+        "electronic": 21,
+        "name": "M\u00e4rt V\u00e4hi",
+        "number": 136,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 446
+    },
+    {
+        "district": 4,
+        "electronic": 10,
+        "name": "Arne Kuum",
+        "number": 134,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 300
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "Andrus Norak",
+        "number": 135,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 181
+    },
+    {
+        "district": 4,
+        "electronic": 3,
+        "name": "Eenok Palm",
+        "number": 141,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 89
+    },
+    {
+        "district": 4,
+        "electronic": 6,
+        "name": "Riina Kaukver",
+        "number": 138,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 82
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Evelyn Tomingas",
+        "number": 145,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 56
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Martin Kontus",
+        "number": 139,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 42
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Siiri K\u00f5iv",
+        "number": 140,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 39
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Malle Virves",
+        "number": 142,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 39
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Valter Rooso",
+        "number": 137,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 31
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Eduard Jakobson",
+        "number": 143,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 17
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Albert Antonov",
+        "number": 144,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 17
+    },
+    {
+        "district": 4,
+        "electronic": 74,
+        "name": "Siiri Oviir",
+        "number": 242,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3643
+    },
+    {
+        "district": 4,
+        "electronic": 47,
+        "name": "Mailis Reps",
+        "number": 243,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3000
+    },
+    {
+        "district": 4,
+        "electronic": 64,
+        "name": "Aivar Riisalu",
+        "number": 245,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1822
+    },
+    {
+        "district": 4,
+        "electronic": 32,
+        "name": "Natalia Malleus",
+        "number": 244,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1299
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "J\u00fcri Lillsoo",
+        "number": 248,
+        "party": "EESTI KESKERAKOND",
+        "votes": 443
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Aleksei \u0160atov",
+        "number": 252,
+        "party": "EESTI KESKERAKOND",
+        "votes": 431
+    },
+    {
+        "district": 4,
+        "electronic": 9,
+        "name": "Raivo Uukkivi",
+        "number": 246,
+        "party": "EESTI KESKERAKOND",
+        "votes": 407
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "Ago Kokser",
+        "number": 251,
+        "party": "EESTI KESKERAKOND",
+        "votes": 382
+    },
+    {
+        "district": 4,
+        "electronic": 9,
+        "name": "J\u00fcri V\u00f5igemast",
+        "number": 247,
+        "party": "EESTI KESKERAKOND",
+        "votes": 296
+    },
+    {
+        "district": 4,
+        "electronic": 7,
+        "name": "Kalle Toomet",
+        "number": 254,
+        "party": "EESTI KESKERAKOND",
+        "votes": 233
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Allar Oviir",
+        "number": 253,
+        "party": "EESTI KESKERAKOND",
+        "votes": 219
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Mati Tartu",
+        "number": 255,
+        "party": "EESTI KESKERAKOND",
+        "votes": 208
+    },
+    {
+        "district": 4,
+        "electronic": 6,
+        "name": "V\u00e4rner Lootsmann",
+        "number": 256,
+        "party": "EESTI KESKERAKOND",
+        "votes": 192
+    },
+    {
+        "district": 4,
+        "electronic": 3,
+        "name": "Hans Liibek",
+        "number": 249,
+        "party": "EESTI KESKERAKOND",
+        "votes": 190
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Andres \u00d5is",
+        "number": 250,
+        "party": "EESTI KESKERAKOND",
+        "votes": 132
+    },
+    {
+        "district": 4,
+        "electronic": 1451,
+        "name": "Andrus Ansip",
+        "number": 367,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 22540
+    },
+    {
+        "district": 4,
+        "electronic": 142,
+        "name": "Rain Rosimannus",
+        "number": 369,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1177
+    },
+    {
+        "district": 4,
+        "electronic": 73,
+        "name": "Harri \u00d5unapuu",
+        "number": 368,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 962
+    },
+    {
+        "district": 4,
+        "electronic": 25,
+        "name": "Kalle Palling",
+        "number": 381,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 714
+    },
+    {
+        "district": 4,
+        "electronic": 46,
+        "name": "Jaak Salumets",
+        "number": 371,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 597
+    },
+    {
+        "district": 4,
+        "electronic": 64,
+        "name": "Ott Kasuri",
+        "number": 372,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 513
+    },
+    {
+        "district": 4,
+        "electronic": 50,
+        "name": "Leino M\u00e4gi",
+        "number": 370,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 508
+    },
+    {
+        "district": 4,
+        "electronic": 35,
+        "name": "Veigo Gutmann",
+        "number": 380,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 477
+    },
+    {
+        "district": 4,
+        "electronic": 33,
+        "name": "Andre Sepp",
+        "number": 373,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 473
+    },
+    {
+        "district": 4,
+        "electronic": 56,
+        "name": "Orm Valtson",
+        "number": 374,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 382
+    },
+    {
+        "district": 4,
+        "electronic": 14,
+        "name": "Vello J\u00f5gisoo",
+        "number": 376,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 343
+    },
+    {
+        "district": 4,
+        "electronic": 18,
+        "name": "Andrus Umboja",
+        "number": 378,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 255
+    },
+    {
+        "district": 4,
+        "electronic": 15,
+        "name": "Ville Pak",
+        "number": 377,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 235
+    },
+    {
+        "district": 4,
+        "electronic": 20,
+        "name": "Arvo P\u00e4rniste",
+        "number": 375,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 198
+    },
+    {
+        "district": 4,
+        "electronic": 12,
+        "name": "Aare Ets",
+        "number": 379,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 161
+    },
+    {
+        "district": 4,
+        "electronic": 10,
+        "name": "Jaan Hatto",
+        "number": 462,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 194
+    },
+    {
+        "district": 4,
+        "electronic": 4,
+        "name": "Henn Reinola",
+        "number": 474,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 52
+    },
+    {
+        "district": 4,
+        "electronic": 435,
+        "name": "Taavi Veskim\u00e4gi",
+        "number": 516,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 5790
+    },
+    {
+        "district": 4,
+        "electronic": 332,
+        "name": "Marko Mihkelson",
+        "number": 518,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2697
+    },
+    {
+        "district": 4,
+        "electronic": 213,
+        "name": "Mari-Ann Kelam",
+        "number": 517,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2402
+    },
+    {
+        "district": 4,
+        "electronic": 185,
+        "name": "Elle Kull",
+        "number": 520,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2083
+    },
+    {
+        "district": 4,
+        "electronic": 30,
+        "name": "Urmas Arum\u00e4e",
+        "number": 519,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 409
+    },
+    {
+        "district": 4,
+        "electronic": 23,
+        "name": "Andrus Saare",
+        "number": 524,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 400
+    },
+    {
+        "district": 4,
+        "electronic": 21,
+        "name": "Urmas Viilma",
+        "number": 521,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 272
+    },
+    {
+        "district": 4,
+        "electronic": 22,
+        "name": "Art Kuum",
+        "number": 527,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 229
+    },
+    {
+        "district": 4,
+        "electronic": 19,
+        "name": "Rein Madissoon",
+        "number": 522,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 222
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "Raivo Tamm",
+        "number": 530,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 208
+    },
+    {
+        "district": 4,
+        "electronic": 10,
+        "name": "Leemet Vaikmaa",
+        "number": 528,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 151
+    },
+    {
+        "district": 4,
+        "electronic": 11,
+        "name": "Ilona Laido",
+        "number": 526,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 96
+    },
+    {
+        "district": 4,
+        "electronic": 6,
+        "name": "Veiko J\u00fcrisson",
+        "number": 525,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 51
+    },
+    {
+        "district": 4,
+        "electronic": 4,
+        "name": "Lehte J\u00f5emaa",
+        "number": 523,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 50
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Rein Koch",
+        "number": 529,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 48
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Igor \u017dukovets",
+        "number": 623,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 46
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Irina Paul",
+        "number": 624,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 36
+    },
+    {
+        "district": 4,
+        "electronic": 16,
+        "name": "Georgi B\u00f5strov",
+        "number": 670,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 848
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Eduard Tanvel",
+        "number": 671,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 111
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Elviira Piiskoppel",
+        "number": 673,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 81
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Boriss Slepikovski",
+        "number": 672,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 76
+    },
+    {
+        "district": 4,
+        "electronic": 35,
+        "name": "Tiit Tammsaar",
+        "number": 729,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 940
+    },
+    {
+        "district": 4,
+        "electronic": 9,
+        "name": "Maido Pajo",
+        "number": 735,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 342
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "Piret Aavik",
+        "number": 731,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 231
+    },
+    {
+        "district": 4,
+        "electronic": 7,
+        "name": "M\u00e4rt Riisenberg",
+        "number": 736,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 194
+    },
+    {
+        "district": 4,
+        "electronic": 7,
+        "name": "Juhan S\u00e4rgava",
+        "number": 738,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 194
+    },
+    {
+        "district": 4,
+        "electronic": 6,
+        "name": "Mario Sootna",
+        "number": 743,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 190
+    },
+    {
+        "district": 4,
+        "electronic": 11,
+        "name": "Mart Opmann",
+        "number": 730,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 183
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Indrek Tiidemann",
+        "number": 737,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 136
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Tiit Hiiemaa",
+        "number": 741,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 128
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "Kalle Talviste",
+        "number": 733,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 126
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Viive Rosenberg",
+        "number": 742,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 110
+    },
+    {
+        "district": 4,
+        "electronic": 1,
+        "name": "Lauri Vitsut",
+        "number": 740,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 103
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Arvo Sirendi",
+        "number": 734,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 99
+    },
+    {
+        "district": 4,
+        "electronic": 6,
+        "name": "Einar Laigna",
+        "number": 732,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 43
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Jaan Metssalu",
+        "number": 739,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 41
+    },
+    {
+        "district": 4,
+        "electronic": 186,
+        "name": "Liina T\u00f5nisson",
+        "number": 855,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 2363
+    },
+    {
+        "district": 4,
+        "electronic": 132,
+        "name": "J\u00fcri Tamm",
+        "number": 854,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1682
+    },
+    {
+        "district": 4,
+        "electronic": 41,
+        "name": "Urve Palo",
+        "number": 857,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 465
+    },
+    {
+        "district": 4,
+        "electronic": 18,
+        "name": "Rein Haggi",
+        "number": 861,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 407
+    },
+    {
+        "district": 4,
+        "electronic": 13,
+        "name": "Astrid Ojasoon",
+        "number": 860,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 349
+    },
+    {
+        "district": 4,
+        "electronic": 11,
+        "name": "Liis-Mail Moora",
+        "number": 859,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 197
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Ants Tamme",
+        "number": 858,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 182
+    },
+    {
+        "district": 4,
+        "electronic": 14,
+        "name": "Aivar Soe",
+        "number": 856,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 174
+    },
+    {
+        "district": 4,
+        "electronic": 12,
+        "name": "Jaak Herodes",
+        "number": 867,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 167
+    },
+    {
+        "district": 4,
+        "electronic": 16,
+        "name": "Olev R\u00e4hni",
+        "number": 862,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 112
+    },
+    {
+        "district": 4,
+        "electronic": 14,
+        "name": "Marina Maran",
+        "number": 864,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 107
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Esne Ernits",
+        "number": 863,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 86
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Andrei Mart\u00f5njak",
+        "number": 868,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 72
+    },
+    {
+        "district": 4,
+        "electronic": 3,
+        "name": "Priit Siitan",
+        "number": 865,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 69
+    },
+    {
+        "district": 4,
+        "electronic": 3,
+        "name": "Tiina Hirv",
+        "number": 866,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 61
+    },
+    {
+        "district": 4,
+        "electronic": 414,
+        "name": "Marek Strandberg",
+        "number": 979,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 5668
+    },
+    {
+        "district": 4,
+        "electronic": 56,
+        "name": "Valdur Lahtvee",
+        "number": 980,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 475
+    },
+    {
+        "district": 4,
+        "electronic": 18,
+        "name": "Tanel Ots",
+        "number": 984,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 314
+    },
+    {
+        "district": 4,
+        "electronic": 19,
+        "name": "Anneliis K\u00f5iv",
+        "number": 988,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 238
+    },
+    {
+        "district": 4,
+        "electronic": 19,
+        "name": "Ahto Oja",
+        "number": 985,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 151
+    },
+    {
+        "district": 4,
+        "electronic": 17,
+        "name": "Tiit Hunt",
+        "number": 990,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 145
+    },
+    {
+        "district": 4,
+        "electronic": 11,
+        "name": "Ain Kabal",
+        "number": 981,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 113
+    },
+    {
+        "district": 4,
+        "electronic": 7,
+        "name": "Anne Artus",
+        "number": 982,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 99
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Raivo Kaare",
+        "number": 983,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 94
+    },
+    {
+        "district": 4,
+        "electronic": 14,
+        "name": "Eugen Veges",
+        "number": 991,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 79
+    },
+    {
+        "district": 4,
+        "electronic": 9,
+        "name": "Sirkka-Liisa Parika",
+        "number": 992,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 71
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Sirje Okapuu",
+        "number": 989,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 55
+    },
+    {
+        "district": 4,
+        "electronic": 5,
+        "name": "Aadu Rast",
+        "number": 993,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 53
+    },
+    {
+        "district": 4,
+        "electronic": 2,
+        "name": "Kalle Virkus",
+        "number": 987,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 45
+    },
+    {
+        "district": 4,
+        "electronic": 0,
+        "name": "Toivo Ellakvere",
+        "number": 986,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 9
+    },
+    {
+        "district": 4,
+        "electronic": 8,
+        "name": "Vello Burmeister",
+        "number": 1075,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 113
+    },
+    {
+        "district": 5,
+        "electronic": 18,
+        "name": "Anti Toplaan",
+        "number": 146,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 661
+    },
+    {
+        "district": 5,
+        "electronic": 3,
+        "name": "Annely Veevo",
+        "number": 148,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 160
+    },
+    {
+        "district": 5,
+        "electronic": 4,
+        "name": "Peeter Vikman",
+        "number": 149,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 150
+    },
+    {
+        "district": 5,
+        "electronic": 7,
+        "name": "Toomas Vallim\u00e4e",
+        "number": 147,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 137
+    },
+    {
+        "district": 5,
+        "electronic": 3,
+        "name": "Kaalep Koppel",
+        "number": 152,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 89
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "T\u00f5nu Paju",
+        "number": 150,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 73
+    },
+    {
+        "district": 5,
+        "electronic": 6,
+        "name": "Alur \u00d5unpuu",
+        "number": 153,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 64
+    },
+    {
+        "district": 5,
+        "electronic": 2,
+        "name": "Kalmer Koppel",
+        "number": 151,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 56
+    },
+    {
+        "district": 5,
+        "electronic": 0,
+        "name": "Merike Paja",
+        "number": 154,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 46
+    },
+    {
+        "district": 5,
+        "electronic": 54,
+        "name": "Ain Seppik",
+        "number": 257,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3989
+    },
+    {
+        "district": 5,
+        "electronic": 23,
+        "name": "Tiiu Aro",
+        "number": 258,
+        "party": "EESTI KESKERAKOND",
+        "votes": 846
+    },
+    {
+        "district": 5,
+        "electronic": 9,
+        "name": "Jaanus Karilaid",
+        "number": 259,
+        "party": "EESTI KESKERAKOND",
+        "votes": 590
+    },
+    {
+        "district": 5,
+        "electronic": 6,
+        "name": "Ants Tammleht",
+        "number": 265,
+        "party": "EESTI KESKERAKOND",
+        "votes": 383
+    },
+    {
+        "district": 5,
+        "electronic": 4,
+        "name": "Lea Kuldsepp",
+        "number": 260,
+        "party": "EESTI KESKERAKOND",
+        "votes": 382
+    },
+    {
+        "district": 5,
+        "electronic": 7,
+        "name": "\u00dclo Kalm",
+        "number": 261,
+        "party": "EESTI KESKERAKOND",
+        "votes": 380
+    },
+    {
+        "district": 5,
+        "electronic": 3,
+        "name": "Arno Peksar",
+        "number": 264,
+        "party": "EESTI KESKERAKOND",
+        "votes": 176
+    },
+    {
+        "district": 5,
+        "electronic": 4,
+        "name": "Malle Kobin",
+        "number": 262,
+        "party": "EESTI KESKERAKOND",
+        "votes": 105
+    },
+    {
+        "district": 5,
+        "electronic": 1,
+        "name": "Rainer Helde",
+        "number": 263,
+        "party": "EESTI KESKERAKOND",
+        "votes": 97
+    },
+    {
+        "district": 5,
+        "electronic": 217,
+        "name": "Jaanus Tamkivi",
+        "number": 382,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 3615
+    },
+    {
+        "district": 5,
+        "electronic": 81,
+        "name": "Imre Soo\u00e4\u00e4r",
+        "number": 385,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1778
+    },
+    {
+        "district": 5,
+        "electronic": 91,
+        "name": "Urve Tiidus",
+        "number": 383,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1441
+    },
+    {
+        "district": 5,
+        "electronic": 78,
+        "name": "Sulev Vare",
+        "number": 387,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1320
+    },
+    {
+        "district": 5,
+        "electronic": 56,
+        "name": "Lauri Luik",
+        "number": 384,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1310
+    },
+    {
+        "district": 5,
+        "electronic": 34,
+        "name": "Ene Kaups",
+        "number": 386,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 543
+    },
+    {
+        "district": 5,
+        "electronic": 8,
+        "name": "Kalev Kallemets",
+        "number": 390,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 353
+    },
+    {
+        "district": 5,
+        "electronic": 19,
+        "name": "Andres Onemar",
+        "number": 388,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 216
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "Aivar Kallas",
+        "number": 389,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 182
+    },
+    {
+        "district": 5,
+        "electronic": 4,
+        "name": "Kaido N\u00f5mmik",
+        "number": 463,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 93
+    },
+    {
+        "district": 5,
+        "electronic": 1,
+        "name": "Marju Karin",
+        "number": 475,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 29
+    },
+    {
+        "district": 5,
+        "electronic": 219,
+        "name": "Tarmo K\u00f5uts",
+        "number": 531,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2847
+    },
+    {
+        "district": 5,
+        "electronic": 52,
+        "name": "Andres Ammas",
+        "number": 539,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 763
+    },
+    {
+        "district": 5,
+        "electronic": 76,
+        "name": "Toomas Takkis",
+        "number": 532,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 612
+    },
+    {
+        "district": 5,
+        "electronic": 18,
+        "name": "Jaanus Valk",
+        "number": 534,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 234
+    },
+    {
+        "district": 5,
+        "electronic": 21,
+        "name": "Argo Kirss",
+        "number": 535,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 218
+    },
+    {
+        "district": 5,
+        "electronic": 10,
+        "name": "Mati Mandel",
+        "number": 537,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 162
+    },
+    {
+        "district": 5,
+        "electronic": 10,
+        "name": "Toomas Schmidt",
+        "number": 536,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 160
+    },
+    {
+        "district": 5,
+        "electronic": 3,
+        "name": "Kaido Kaasik",
+        "number": 538,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 101
+    },
+    {
+        "district": 5,
+        "electronic": 9,
+        "name": "Aivar Reivik",
+        "number": 533,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 69
+    },
+    {
+        "district": 5,
+        "electronic": 0,
+        "name": "Jana Jansen",
+        "number": 625,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 20
+    },
+    {
+        "district": 5,
+        "electronic": 0,
+        "name": "Ants Viidul",
+        "number": 674,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 12
+    },
+    {
+        "district": 5,
+        "electronic": 0,
+        "name": "Viktor Oja",
+        "number": 675,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 5
+    },
+    {
+        "district": 5,
+        "electronic": 26,
+        "name": "Raimu Aardam",
+        "number": 744,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 968
+    },
+    {
+        "district": 5,
+        "electronic": 23,
+        "name": "Tarmo M\u00e4nd",
+        "number": 745,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 763
+    },
+    {
+        "district": 5,
+        "electronic": 14,
+        "name": "Kajar Lember",
+        "number": 746,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 701
+    },
+    {
+        "district": 5,
+        "electronic": 3,
+        "name": "Rein Hanson",
+        "number": 748,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 248
+    },
+    {
+        "district": 5,
+        "electronic": 2,
+        "name": "Elvo Leppmaa",
+        "number": 751,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 115
+    },
+    {
+        "district": 5,
+        "electronic": 6,
+        "name": "\u00dclle Puppart",
+        "number": 749,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 86
+    },
+    {
+        "district": 5,
+        "electronic": 6,
+        "name": "Margus Muld",
+        "number": 752,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 73
+    },
+    {
+        "district": 5,
+        "electronic": 1,
+        "name": "Endel-Haljand Susi",
+        "number": 747,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 64
+    },
+    {
+        "district": 5,
+        "electronic": 2,
+        "name": "Toomas Remmelkoor",
+        "number": 750,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 31
+    },
+    {
+        "district": 5,
+        "electronic": 73,
+        "name": "Andres Tarand",
+        "number": 869,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1132
+    },
+    {
+        "district": 5,
+        "electronic": 57,
+        "name": "Kalev Kotkas",
+        "number": 870,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1096
+    },
+    {
+        "district": 5,
+        "electronic": 42,
+        "name": "Hannes Hanso",
+        "number": 871,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 648
+    },
+    {
+        "district": 5,
+        "electronic": 38,
+        "name": "Neeme Suur",
+        "number": 872,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 605
+    },
+    {
+        "district": 5,
+        "electronic": 20,
+        "name": "\u00dclle Kruus",
+        "number": 873,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 268
+    },
+    {
+        "district": 5,
+        "electronic": 10,
+        "name": "Ivo Eesmaa",
+        "number": 874,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 150
+    },
+    {
+        "district": 5,
+        "electronic": 4,
+        "name": "Rea Raus",
+        "number": 876,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 73
+    },
+    {
+        "district": 5,
+        "electronic": 1,
+        "name": "Hants Kipper",
+        "number": 875,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 57
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "Reet Kokovkin",
+        "number": 877,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 52
+    },
+    {
+        "district": 5,
+        "electronic": 88,
+        "name": "Aleksei Lotman",
+        "number": 995,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1316
+    },
+    {
+        "district": 5,
+        "electronic": 50,
+        "name": "Mart Saarso",
+        "number": 994,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 570
+    },
+    {
+        "district": 5,
+        "electronic": 12,
+        "name": "Meelis Saarlaid",
+        "number": 998,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 182
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "Tiiu Arro",
+        "number": 999,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 148
+    },
+    {
+        "district": 5,
+        "electronic": 10,
+        "name": "Gilleke Kopamees",
+        "number": 996,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 116
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "Sandor Sinimeri",
+        "number": 1000,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 78
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "Mati Lepna",
+        "number": 997,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 66
+    },
+    {
+        "district": 5,
+        "electronic": 5,
+        "name": "Janar \u00d5unpuu",
+        "number": 1002,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 43
+    },
+    {
+        "district": 5,
+        "electronic": 0,
+        "name": "Andrus Pettai",
+        "number": 1001,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 22
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "Andrus M\u00e4nd",
+        "number": 155,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 193
+    },
+    {
+        "district": 6,
+        "electronic": 5,
+        "name": "Heimar Siirak",
+        "number": 158,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 83
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Raul Issi",
+        "number": 156,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 62
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "Aili-Malle Mantsik",
+        "number": 157,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 34
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "Arvo Kivisto",
+        "number": 160,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 18
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Janar Tiidermann",
+        "number": 159,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 14
+    },
+    {
+        "district": 6,
+        "electronic": 59,
+        "name": "Toomas Varek",
+        "number": 266,
+        "party": "EESTI KESKERAKOND",
+        "votes": 2890
+    },
+    {
+        "district": 6,
+        "electronic": 15,
+        "name": "Einar Vallbaum",
+        "number": 269,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1276
+    },
+    {
+        "district": 6,
+        "electronic": 8,
+        "name": "Urmas Tamm",
+        "number": 268,
+        "party": "EESTI KESKERAKOND",
+        "votes": 713
+    },
+    {
+        "district": 6,
+        "electronic": 8,
+        "name": "Liis Tappo-Treial",
+        "number": 270,
+        "party": "EESTI KESKERAKOND",
+        "votes": 674
+    },
+    {
+        "district": 6,
+        "electronic": 10,
+        "name": "Toomas V\u00e4inaste",
+        "number": 267,
+        "party": "EESTI KESKERAKOND",
+        "votes": 658
+    },
+    {
+        "district": 6,
+        "electronic": 10,
+        "name": "Peep Vassiljev",
+        "number": 273,
+        "party": "EESTI KESKERAKOND",
+        "votes": 636
+    },
+    {
+        "district": 6,
+        "electronic": 2,
+        "name": "Olev Puldre",
+        "number": 271,
+        "party": "EESTI KESKERAKOND",
+        "votes": 239
+    },
+    {
+        "district": 6,
+        "electronic": 2,
+        "name": "Andres S\u00f5ber",
+        "number": 272,
+        "party": "EESTI KESKERAKOND",
+        "votes": 136
+    },
+    {
+        "district": 6,
+        "electronic": 183,
+        "name": "Kristiina Ojuland",
+        "number": 391,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 3519
+    },
+    {
+        "district": 6,
+        "electronic": 61,
+        "name": "Robert Antropov",
+        "number": 392,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 2085
+    },
+    {
+        "district": 6,
+        "electronic": 27,
+        "name": "Ants Leemets",
+        "number": 393,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 343
+    },
+    {
+        "district": 6,
+        "electronic": 9,
+        "name": "Andres Ots",
+        "number": 394,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 324
+    },
+    {
+        "district": 6,
+        "electronic": 9,
+        "name": "Matti J\u00f5e",
+        "number": 398,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 304
+    },
+    {
+        "district": 6,
+        "electronic": 9,
+        "name": "Georg Gavronski",
+        "number": 395,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 196
+    },
+    {
+        "district": 6,
+        "electronic": 7,
+        "name": "Priit Pramann",
+        "number": 397,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 136
+    },
+    {
+        "district": 6,
+        "electronic": 4,
+        "name": "Erkki Laidinen",
+        "number": 396,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 90
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Sven Sildnik",
+        "number": 464,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 94
+    },
+    {
+        "district": 6,
+        "electronic": 2,
+        "name": "Priit Jaaniste",
+        "number": 476,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 23
+    },
+    {
+        "district": 6,
+        "electronic": 198,
+        "name": "Marko Pomerants",
+        "number": 540,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 3156
+    },
+    {
+        "district": 6,
+        "electronic": 56,
+        "name": "Mihkel Juhkami",
+        "number": 541,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 574
+    },
+    {
+        "district": 6,
+        "electronic": 19,
+        "name": "Ain Suurkaev",
+        "number": 544,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 348
+    },
+    {
+        "district": 6,
+        "electronic": 19,
+        "name": "Rainer Miiltop",
+        "number": 547,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 326
+    },
+    {
+        "district": 6,
+        "electronic": 9,
+        "name": "Tiia Sihver",
+        "number": 542,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 303
+    },
+    {
+        "district": 6,
+        "electronic": 15,
+        "name": "Sven Kesler",
+        "number": 543,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 228
+    },
+    {
+        "district": 6,
+        "electronic": 13,
+        "name": "Hannes Mets",
+        "number": 545,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 216
+    },
+    {
+        "district": 6,
+        "electronic": 12,
+        "name": "Indrek Klammer",
+        "number": 546,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 175
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "Rimma Polonskaja",
+        "number": 627,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 26
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Jevgeni Maltsev",
+        "number": 626,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 17
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Boris Voronov",
+        "number": 676,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 36
+    },
+    {
+        "district": 6,
+        "electronic": 23,
+        "name": "Vello Tafenau",
+        "number": 753,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1072
+    },
+    {
+        "district": 6,
+        "electronic": 27,
+        "name": "Andrus Blok",
+        "number": 754,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1047
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "\u00d5ie Reineberg",
+        "number": 755,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 148
+    },
+    {
+        "district": 6,
+        "electronic": 3,
+        "name": "Mare Taar",
+        "number": 756,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 102
+    },
+    {
+        "district": 6,
+        "electronic": 3,
+        "name": "Hanno N\u00f5mme",
+        "number": 760,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 83
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "Samuel Golomb",
+        "number": 757,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 74
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Toivo Leemets",
+        "number": 759,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 48
+    },
+    {
+        "district": 6,
+        "electronic": 1,
+        "name": "Henry Kallaste",
+        "number": 758,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 30
+    },
+    {
+        "district": 6,
+        "electronic": 89,
+        "name": "Indrek Saar",
+        "number": 879,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1855
+    },
+    {
+        "district": 6,
+        "electronic": 53,
+        "name": "Kadi P\u00e4rnits",
+        "number": 878,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1364
+    },
+    {
+        "district": 6,
+        "electronic": 15,
+        "name": "Jaak L\u00e4\u00e4nemets",
+        "number": 883,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 252
+    },
+    {
+        "district": 6,
+        "electronic": 13,
+        "name": "Kuno Rooba",
+        "number": 880,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 231
+    },
+    {
+        "district": 6,
+        "electronic": 5,
+        "name": "Karl M\u00e4esepp",
+        "number": 885,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 180
+    },
+    {
+        "district": 6,
+        "electronic": 6,
+        "name": "Kairit Pihlak",
+        "number": 884,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 104
+    },
+    {
+        "district": 6,
+        "electronic": 4,
+        "name": "Vardo Arusaar",
+        "number": 881,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 91
+    },
+    {
+        "district": 6,
+        "electronic": 2,
+        "name": "Riina Veidenbaum",
+        "number": 882,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 75
+    },
+    {
+        "district": 6,
+        "electronic": 60,
+        "name": "Andres Jaadla",
+        "number": 1003,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1019
+    },
+    {
+        "district": 6,
+        "electronic": 48,
+        "name": "Ivar J\u00fcssi",
+        "number": 1005,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 480
+    },
+    {
+        "district": 6,
+        "electronic": 11,
+        "name": "Tamara Vahtra-Aasmets",
+        "number": 1004,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 229
+    },
+    {
+        "district": 6,
+        "electronic": 3,
+        "name": "Kalju Soomeri",
+        "number": 1008,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 139
+    },
+    {
+        "district": 6,
+        "electronic": 7,
+        "name": "Allan Jaakus",
+        "number": 1006,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 62
+    },
+    {
+        "district": 6,
+        "electronic": 4,
+        "name": "Enn \u00d5unapuu",
+        "number": 1009,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 40
+    },
+    {
+        "district": 6,
+        "electronic": 3,
+        "name": "Talvi Ausma",
+        "number": 1007,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 40
+    },
+    {
+        "district": 6,
+        "electronic": 0,
+        "name": "Velju Mark",
+        "number": 1010,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 40
+    },
+    {
+        "district": 7,
+        "electronic": 5,
+        "name": "Artur P\u00f5ld",
+        "number": 161,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 198
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Oleg Pronin",
+        "number": 165,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 106
+    },
+    {
+        "district": 7,
+        "electronic": 3,
+        "name": "Aarne Hanni",
+        "number": 162,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 81
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Andres Toome",
+        "number": 163,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 67
+    },
+    {
+        "district": 7,
+        "electronic": 2,
+        "name": "Vadim Jerjomenko",
+        "number": 164,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 27
+    },
+    {
+        "district": 7,
+        "electronic": 52,
+        "name": "Mihhail Stalnuhhin",
+        "number": 283,
+        "party": "EESTI KESKERAKOND",
+        "votes": 5474
+    },
+    {
+        "district": 7,
+        "electronic": 66,
+        "name": "Valeri Korb",
+        "number": 276,
+        "party": "EESTI KESKERAKOND",
+        "votes": 4039
+    },
+    {
+        "district": 7,
+        "electronic": 36,
+        "name": "Eldar Efendijev",
+        "number": 275,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3751
+    },
+    {
+        "district": 7,
+        "electronic": 17,
+        "name": "Tiit Kuusmik",
+        "number": 277,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1631
+    },
+    {
+        "district": 7,
+        "electronic": 28,
+        "name": "Lembit Kaljuvee",
+        "number": 274,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1514
+    },
+    {
+        "district": 7,
+        "electronic": 20,
+        "name": "Kaarel P\u00fcrg",
+        "number": 278,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1361
+    },
+    {
+        "district": 7,
+        "electronic": 9,
+        "name": "Eevi Paasm\u00e4e",
+        "number": 279,
+        "party": "EESTI KESKERAKOND",
+        "votes": 824
+    },
+    {
+        "district": 7,
+        "electronic": 6,
+        "name": "Valeri Abramovit\u0161",
+        "number": 282,
+        "party": "EESTI KESKERAKOND",
+        "votes": 393
+    },
+    {
+        "district": 7,
+        "electronic": 10,
+        "name": " Veikko Luhalaid",
+        "number": 280,
+        "party": "EESTI KESKERAKOND",
+        "votes": 377
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Anneli K\u00f6\u00f6ba-Orlov",
+        "number": 281,
+        "party": "EESTI KESKERAKOND",
+        "votes": 156
+    },
+    {
+        "district": 7,
+        "electronic": 74,
+        "name": "Jaanus Rahum\u00e4gi",
+        "number": 399,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 2144
+    },
+    {
+        "district": 7,
+        "electronic": 51,
+        "name": "Rein Aidma",
+        "number": 400,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1303
+    },
+    {
+        "district": 7,
+        "electronic": 16,
+        "name": "Igor Sumarok",
+        "number": 408,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 567
+    },
+    {
+        "district": 7,
+        "electronic": 10,
+        "name": "Ants Liimets",
+        "number": 402,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 434
+    },
+    {
+        "district": 7,
+        "electronic": 12,
+        "name": "Ken Koort",
+        "number": 407,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 340
+    },
+    {
+        "district": 7,
+        "electronic": 12,
+        "name": "Merike Peri",
+        "number": 401,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 256
+    },
+    {
+        "district": 7,
+        "electronic": 9,
+        "name": "Bruno Uustal",
+        "number": 406,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 207
+    },
+    {
+        "district": 7,
+        "electronic": 8,
+        "name": "Kalev Naur",
+        "number": 404,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 187
+    },
+    {
+        "district": 7,
+        "electronic": 3,
+        "name": "Valentina Lunina",
+        "number": 405,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 101
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Dina Gont\u0161arova",
+        "number": 403,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 32
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Svetlana Dorkina",
+        "number": 477,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 23
+    },
+    {
+        "district": 7,
+        "electronic": 54,
+        "name": "Sirje J\u00f5emaa",
+        "number": 555,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 772
+    },
+    {
+        "district": 7,
+        "electronic": 38,
+        "name": "Enno Vinni",
+        "number": 550,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 644
+    },
+    {
+        "district": 7,
+        "electronic": 18,
+        "name": "Erika Kruup",
+        "number": 549,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 488
+    },
+    {
+        "district": 7,
+        "electronic": 21,
+        "name": "Ants Pauls",
+        "number": 548,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 426
+    },
+    {
+        "district": 7,
+        "electronic": 11,
+        "name": "Vallo Reimaa",
+        "number": 551,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 234
+    },
+    {
+        "district": 7,
+        "electronic": 8,
+        "name": "Avo Kiir",
+        "number": 553,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 203
+    },
+    {
+        "district": 7,
+        "electronic": 17,
+        "name": "Tiit Salvan",
+        "number": 552,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 168
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Peeter Kaldur",
+        "number": 556,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 106
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Vladislav Ponjatovski",
+        "number": 554,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 70
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "\u017danna Solomanjuk",
+        "number": 557,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 21
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Genadi Afanassjev",
+        "number": 628,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 121
+    },
+    {
+        "district": 7,
+        "electronic": 2,
+        "name": "Igor Suharukov",
+        "number": 629,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 76
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Marina Tarassova",
+        "number": 635,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 36
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Irina Talalajeva",
+        "number": 631,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 32
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Jelena Ziolkowska",
+        "number": 630,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 24
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Boriss \u017ditinski",
+        "number": 634,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 18
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Uljan Mi\u0161in",
+        "number": 633,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 10
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Leonid Grankovski",
+        "number": 632,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 9
+    },
+    {
+        "district": 7,
+        "electronic": 6,
+        "name": "Vladimir Drozdov",
+        "number": 677,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 333
+    },
+    {
+        "district": 7,
+        "electronic": 3,
+        "name": "Sergei Lvov",
+        "number": 678,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 183
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Viktor Mal\u00f5gin",
+        "number": 679,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 100
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Andrei \u017dilkin",
+        "number": 680,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 65
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Svetlana Solodova",
+        "number": 681,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 62
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Tatjana Raag",
+        "number": 683,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 17
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Vjat\u0161eslav Parthal",
+        "number": 682,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 14
+    },
+    {
+        "district": 7,
+        "electronic": 31,
+        "name": "Ago Silde",
+        "number": 761,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 927
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Toivo Kivi",
+        "number": 768,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 493
+    },
+    {
+        "district": 7,
+        "electronic": 14,
+        "name": "Arno Rossman",
+        "number": 763,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 467
+    },
+    {
+        "district": 7,
+        "electronic": 7,
+        "name": "Nade\u017eda T\u0161erka\u0161ina",
+        "number": 762,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 405
+    },
+    {
+        "district": 7,
+        "electronic": 8,
+        "name": "Aleksei Nalivaiko",
+        "number": 767,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 257
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Voldemar Trumm",
+        "number": 764,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 160
+    },
+    {
+        "district": 7,
+        "electronic": 3,
+        "name": "Aavo Keerme",
+        "number": 766,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 149
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Julia Dmitrijeva",
+        "number": 770,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 146
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Nikolai Kuta\u0161ov",
+        "number": 765,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 146
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Sergei Rjabkov",
+        "number": 769,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 50
+    },
+    {
+        "district": 7,
+        "electronic": 24,
+        "name": "Meelis Virkebau",
+        "number": 886,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 444
+    },
+    {
+        "district": 7,
+        "electronic": 23,
+        "name": "Raivo Paavo",
+        "number": 887,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 350
+    },
+    {
+        "district": 7,
+        "electronic": 14,
+        "name": "Eduard Odinets",
+        "number": 888,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 265
+    },
+    {
+        "district": 7,
+        "electronic": 2,
+        "name": "Ants Rummel",
+        "number": 893,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 145
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Viktor Veevo",
+        "number": 890,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 89
+    },
+    {
+        "district": 7,
+        "electronic": 6,
+        "name": "Aili Ilves",
+        "number": 889,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 63
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Olga Markina",
+        "number": 894,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 55
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Andrei Ivanen",
+        "number": 892,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 49
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Irina Golikova",
+        "number": 891,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 33
+    },
+    {
+        "district": 7,
+        "electronic": 0,
+        "name": "Irina Klimtsova",
+        "number": 895,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 22
+    },
+    {
+        "district": 7,
+        "electronic": 49,
+        "name": "Mikk Sarv",
+        "number": 1011,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 707
+    },
+    {
+        "district": 7,
+        "electronic": 5,
+        "name": "Krista Pedak",
+        "number": 1012,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 120
+    },
+    {
+        "district": 7,
+        "electronic": 12,
+        "name": "Enn K\u00e4iss",
+        "number": 1018,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 113
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Marika Lillemets",
+        "number": 1016,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 85
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Imre Poom",
+        "number": 1020,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 61
+    },
+    {
+        "district": 7,
+        "electronic": 6,
+        "name": "\u00dcllar Vaserik",
+        "number": 1015,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 58
+    },
+    {
+        "district": 7,
+        "electronic": 5,
+        "name": "Marina Janssen",
+        "number": 1014,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 49
+    },
+    {
+        "district": 7,
+        "electronic": 5,
+        "name": "Arno Kaseniit",
+        "number": 1013,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 41
+    },
+    {
+        "district": 7,
+        "electronic": 4,
+        "name": "Ivar Soone",
+        "number": 1017,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 25
+    },
+    {
+        "district": 7,
+        "electronic": 1,
+        "name": "Rutt Karolin",
+        "number": 1019,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 4
+    },
+    {
+        "district": 8,
+        "electronic": 7,
+        "name": "Peeter Alvre",
+        "number": 166,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 207
+    },
+    {
+        "district": 8,
+        "electronic": 2,
+        "name": "Otto Maam\u00e4gi",
+        "number": 168,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 95
+    },
+    {
+        "district": 8,
+        "electronic": 1,
+        "name": "Margit Saks",
+        "number": 170,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 69
+    },
+    {
+        "district": 8,
+        "electronic": 4,
+        "name": "Reigo Rannu",
+        "number": 169,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 64
+    },
+    {
+        "district": 8,
+        "electronic": 2,
+        "name": "T\u00f5nu Vebel",
+        "number": 173,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 44
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Malle Allik",
+        "number": 171,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 39
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Valentine Alvre",
+        "number": 167,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 30
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Urmas Tohu",
+        "number": 172,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 22
+    },
+    {
+        "district": 8,
+        "electronic": 88,
+        "name": "Jaak Aab",
+        "number": 284,
+        "party": "EESTI KESKERAKOND",
+        "votes": 4229
+    },
+    {
+        "district": 8,
+        "electronic": 10,
+        "name": "Kersti Sarapuu",
+        "number": 285,
+        "party": "EESTI KESKERAKOND",
+        "votes": 943
+    },
+    {
+        "district": 8,
+        "electronic": 18,
+        "name": "Arvo Sarapuu",
+        "number": 293,
+        "party": "EESTI KESKERAKOND",
+        "votes": 913
+    },
+    {
+        "district": 8,
+        "electronic": 12,
+        "name": "Karl \u00d5mblus",
+        "number": 287,
+        "party": "EESTI KESKERAKOND",
+        "votes": 723
+    },
+    {
+        "district": 8,
+        "electronic": 8,
+        "name": "Peeter Rahnel",
+        "number": 292,
+        "party": "EESTI KESKERAKOND",
+        "votes": 549
+    },
+    {
+        "district": 8,
+        "electronic": 3,
+        "name": "Jaan Kundla",
+        "number": 286,
+        "party": "EESTI KESKERAKOND",
+        "votes": 496
+    },
+    {
+        "district": 8,
+        "electronic": 16,
+        "name": "Priit Toobal",
+        "number": 288,
+        "party": "EESTI KESKERAKOND",
+        "votes": 441
+    },
+    {
+        "district": 8,
+        "electronic": 5,
+        "name": "Aivo Toomistu",
+        "number": 289,
+        "party": "EESTI KESKERAKOND",
+        "votes": 290
+    },
+    {
+        "district": 8,
+        "electronic": 5,
+        "name": "Erich Palm",
+        "number": 290,
+        "party": "EESTI KESKERAKOND",
+        "votes": 251
+    },
+    {
+        "district": 8,
+        "electronic": 6,
+        "name": "Jaago Kuriks",
+        "number": 291,
+        "party": "EESTI KESKERAKOND",
+        "votes": 243
+    },
+    {
+        "district": 8,
+        "electronic": 284,
+        "name": "Meelis Atonen",
+        "number": 409,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 4687
+    },
+    {
+        "district": 8,
+        "electronic": 97,
+        "name": "T\u00f5nis K\u00f5iv",
+        "number": 411,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1926
+    },
+    {
+        "district": 8,
+        "electronic": 69,
+        "name": "Peep Aru",
+        "number": 410,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1568
+    },
+    {
+        "district": 8,
+        "electronic": 16,
+        "name": "T\u00f5nu Juul",
+        "number": 417,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 639
+    },
+    {
+        "district": 8,
+        "electronic": 11,
+        "name": "Jaanus Ilusk",
+        "number": 412,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 626
+    },
+    {
+        "district": 8,
+        "electronic": 34,
+        "name": "Tauno Tuula",
+        "number": 414,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 540
+    },
+    {
+        "district": 8,
+        "electronic": 22,
+        "name": "\u00dcllar Vahtram\u00e4e",
+        "number": 413,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 509
+    },
+    {
+        "district": 8,
+        "electronic": 14,
+        "name": "Kalle Jents",
+        "number": 418,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 252
+    },
+    {
+        "district": 8,
+        "electronic": 15,
+        "name": "Romeo Mukk",
+        "number": 415,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 193
+    },
+    {
+        "district": 8,
+        "electronic": 15,
+        "name": "Ergo Prave",
+        "number": 416,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 160
+    },
+    {
+        "district": 8,
+        "electronic": 8,
+        "name": "Paul Koppel",
+        "number": 466,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 77
+    },
+    {
+        "district": 8,
+        "electronic": 3,
+        "name": "Katrin Sepp",
+        "number": 478,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 75
+    },
+    {
+        "district": 8,
+        "electronic": 247,
+        "name": "Helir-Valdor Seeder",
+        "number": 558,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 4089
+    },
+    {
+        "district": 8,
+        "electronic": 82,
+        "name": "Kaia Iva",
+        "number": 560,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 886
+    },
+    {
+        "district": 8,
+        "electronic": 28,
+        "name": "Tiina Oraste",
+        "number": 559,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 692
+    },
+    {
+        "district": 8,
+        "electronic": 60,
+        "name": "Tarmo Loodus",
+        "number": 566,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 478
+    },
+    {
+        "district": 8,
+        "electronic": 26,
+        "name": "Kalju Kertsmik",
+        "number": 562,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 432
+    },
+    {
+        "district": 8,
+        "electronic": 24,
+        "name": "J\u00fcri Ellram",
+        "number": 567,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 282
+    },
+    {
+        "district": 8,
+        "electronic": 29,
+        "name": "Jaak Sulg",
+        "number": 561,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 277
+    },
+    {
+        "district": 8,
+        "electronic": 14,
+        "name": "Arvo Maling",
+        "number": 563,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 222
+    },
+    {
+        "district": 8,
+        "electronic": 14,
+        "name": "Lembit Kruuse",
+        "number": 565,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 203
+    },
+    {
+        "district": 8,
+        "electronic": 15,
+        "name": "Kaido Ivask",
+        "number": 564,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 197
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Anastasia Jankovskaja",
+        "number": 637,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 16
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "J\u00fcri T\u00fcrk",
+        "number": 636,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 4
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Stepan Kravt\u0161uk",
+        "number": 684,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 12
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Zoja Linnas",
+        "number": 686,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 12
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Artur Ivanov",
+        "number": 685,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 5
+    },
+    {
+        "district": 8,
+        "electronic": 38,
+        "name": "Jaanus Marrandi",
+        "number": 771,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1108
+    },
+    {
+        "district": 8,
+        "electronic": 24,
+        "name": "Helmen K\u00fctt",
+        "number": 778,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1076
+    },
+    {
+        "district": 8,
+        "electronic": 11,
+        "name": "Monika Kuzmina",
+        "number": 777,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 620
+    },
+    {
+        "district": 8,
+        "electronic": 11,
+        "name": "Jaak Allik",
+        "number": 772,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 510
+    },
+    {
+        "district": 8,
+        "electronic": 8,
+        "name": "V\u00e4ino Luik",
+        "number": 779,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 316
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Argo J\u00f5gi",
+        "number": 775,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 248
+    },
+    {
+        "district": 8,
+        "electronic": 9,
+        "name": "Theo Aasa",
+        "number": 773,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 195
+    },
+    {
+        "district": 8,
+        "electronic": 2,
+        "name": "Annika Aava",
+        "number": 774,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 179
+    },
+    {
+        "district": 8,
+        "electronic": 2,
+        "name": "Vello Teor",
+        "number": 780,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 115
+    },
+    {
+        "district": 8,
+        "electronic": 2,
+        "name": "T\u00f5nu Kiviloo",
+        "number": 776,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 105
+    },
+    {
+        "district": 8,
+        "electronic": 325,
+        "name": "Sven Mikser",
+        "number": 896,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 4280
+    },
+    {
+        "district": 8,
+        "electronic": 27,
+        "name": "Malle Vahtra",
+        "number": 897,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 416
+    },
+    {
+        "district": 8,
+        "electronic": 20,
+        "name": "Anu Raud",
+        "number": 902,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 343
+    },
+    {
+        "district": 8,
+        "electronic": 10,
+        "name": "Kaupo K\u00e4nd",
+        "number": 898,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 297
+    },
+    {
+        "district": 8,
+        "electronic": 4,
+        "name": "Kulno Klein",
+        "number": 899,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 194
+    },
+    {
+        "district": 8,
+        "electronic": 8,
+        "name": "Reet L\u00e4nkur",
+        "number": 900,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 177
+    },
+    {
+        "district": 8,
+        "electronic": 3,
+        "name": "Vello Tammer",
+        "number": 901,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 150
+    },
+    {
+        "district": 8,
+        "electronic": 11,
+        "name": "Randel L\u00e4nts",
+        "number": 905,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 120
+    },
+    {
+        "district": 8,
+        "electronic": 1,
+        "name": "Andres Nuut",
+        "number": 903,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 91
+    },
+    {
+        "district": 8,
+        "electronic": 5,
+        "name": "Jaan Kree",
+        "number": 904,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 46
+    },
+    {
+        "district": 8,
+        "electronic": 93,
+        "name": "T\u00f5nis M\u00e4gi",
+        "number": 1022,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1215
+    },
+    {
+        "district": 8,
+        "electronic": 32,
+        "name": "Andres Idla",
+        "number": 1021,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 489
+    },
+    {
+        "district": 8,
+        "electronic": 28,
+        "name": "\u00dclle Kuldkepp",
+        "number": 1023,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 423
+    },
+    {
+        "district": 8,
+        "electronic": 26,
+        "name": "Aivar Ruukel",
+        "number": 1024,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 251
+    },
+    {
+        "district": 8,
+        "electronic": 6,
+        "name": "Kert K\u00e4rner",
+        "number": 1029,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 159
+    },
+    {
+        "district": 8,
+        "electronic": 5,
+        "name": "Aate-Heli \u00d5un",
+        "number": 1026,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 121
+    },
+    {
+        "district": 8,
+        "electronic": 3,
+        "name": "Olav Renno",
+        "number": 1025,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 106
+    },
+    {
+        "district": 8,
+        "electronic": 3,
+        "name": "Hannes Puu",
+        "number": 1030,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 77
+    },
+    {
+        "district": 8,
+        "electronic": 6,
+        "name": "Indrek Rebane",
+        "number": 1027,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 37
+    },
+    {
+        "district": 8,
+        "electronic": 0,
+        "name": "Georg Tamm",
+        "number": 1028,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 33
+    },
+    {
+        "district": 9,
+        "electronic": 4,
+        "name": "Taavi Palm",
+        "number": 174,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 158
+    },
+    {
+        "district": 9,
+        "electronic": 5,
+        "name": "\u00dcllar Reino",
+        "number": 178,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 121
+    },
+    {
+        "district": 9,
+        "electronic": 2,
+        "name": "Eda Koppel",
+        "number": 177,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 68
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Katrin Kuum",
+        "number": 175,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 44
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Kirsika Teekel",
+        "number": 179,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 34
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Reet Pappe",
+        "number": 176,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 31
+    },
+    {
+        "district": 9,
+        "electronic": 37,
+        "name": "Marika Tuus",
+        "number": 294,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3758
+    },
+    {
+        "district": 9,
+        "electronic": 74,
+        "name": "Peeter V\u00f5sa",
+        "number": 295,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3694
+    },
+    {
+        "district": 9,
+        "electronic": 9,
+        "name": "Peep P\u00f5dder",
+        "number": 297,
+        "party": "EESTI KESKERAKOND",
+        "votes": 261
+    },
+    {
+        "district": 9,
+        "electronic": 7,
+        "name": "Koit Prants",
+        "number": 302,
+        "party": "EESTI KESKERAKOND",
+        "votes": 183
+    },
+    {
+        "district": 9,
+        "electronic": 8,
+        "name": "Taavi Aas",
+        "number": 296,
+        "party": "EESTI KESKERAKOND",
+        "votes": 170
+    },
+    {
+        "district": 9,
+        "electronic": 9,
+        "name": "Peeter Laasik",
+        "number": 298,
+        "party": "EESTI KESKERAKOND",
+        "votes": 168
+    },
+    {
+        "district": 9,
+        "electronic": 4,
+        "name": "Heldur J\u00f5gioja",
+        "number": 301,
+        "party": "EESTI KESKERAKOND",
+        "votes": 160
+    },
+    {
+        "district": 9,
+        "electronic": 2,
+        "name": "Henri Kaselo",
+        "number": 299,
+        "party": "EESTI KESKERAKOND",
+        "votes": 150
+    },
+    {
+        "district": 9,
+        "electronic": 2,
+        "name": "Tauno Kangro",
+        "number": 300,
+        "party": "EESTI KESKERAKOND",
+        "votes": 51
+    },
+    {
+        "district": 9,
+        "electronic": 180,
+        "name": "Igor Gr\u00e4zin",
+        "number": 419,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 3001
+    },
+    {
+        "district": 9,
+        "electronic": 114,
+        "name": "Tarmo Leinatamm",
+        "number": 420,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 2618
+    },
+    {
+        "district": 9,
+        "electronic": 67,
+        "name": "Urmas Kruuse",
+        "number": 421,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1765
+    },
+    {
+        "district": 9,
+        "electronic": 32,
+        "name": "Terje Trei",
+        "number": 422,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 681
+    },
+    {
+        "district": 9,
+        "electronic": 27,
+        "name": "Viktor Svjat\u00f5\u0161ev",
+        "number": 427,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 495
+    },
+    {
+        "district": 9,
+        "electronic": 14,
+        "name": "Raivo Vadi",
+        "number": 423,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 374
+    },
+    {
+        "district": 9,
+        "electronic": 26,
+        "name": "Kalmer Lain",
+        "number": 424,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 339
+    },
+    {
+        "district": 9,
+        "electronic": 27,
+        "name": "Reno Laidre",
+        "number": 426,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 326
+    },
+    {
+        "district": 9,
+        "electronic": 10,
+        "name": "Igor Ellisson",
+        "number": 425,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 142
+    },
+    {
+        "district": 9,
+        "electronic": 4,
+        "name": "Jaanus Koorep",
+        "number": 467,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 69
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Tulvet Noorm\u00e4gi",
+        "number": 479,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 38
+    },
+    {
+        "district": 9,
+        "electronic": 256,
+        "name": "Ene Ergma",
+        "number": 568,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 3979
+    },
+    {
+        "district": 9,
+        "electronic": 49,
+        "name": "Joel Luhamets",
+        "number": 573,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 543
+    },
+    {
+        "district": 9,
+        "electronic": 28,
+        "name": "Ants Paju",
+        "number": 571,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 471
+    },
+    {
+        "district": 9,
+        "electronic": 34,
+        "name": "Kalev Vapper",
+        "number": 569,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 412
+    },
+    {
+        "district": 9,
+        "electronic": 24,
+        "name": "Toivo Peets",
+        "number": 572,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 405
+    },
+    {
+        "district": 9,
+        "electronic": 13,
+        "name": "Madis Avi",
+        "number": 576,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 175
+    },
+    {
+        "district": 9,
+        "electronic": 5,
+        "name": "V\u00e4ino Vahtra",
+        "number": 574,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 150
+    },
+    {
+        "district": 9,
+        "electronic": 6,
+        "name": "T\u00f5nu Ojamaa",
+        "number": 570,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 94
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Aime G\u00fcsson",
+        "number": 575,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 59
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Julia Maspanova",
+        "number": 638,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 25
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Luiza Zolotarjova",
+        "number": 639,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 7
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Leonti Kromonov",
+        "number": 688,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 188
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Vladimir Sv\u00e4tski",
+        "number": 689,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 93
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Marijam Rannak",
+        "number": 687,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 76
+    },
+    {
+        "district": 9,
+        "electronic": 66,
+        "name": "Villu Reiljan",
+        "number": 781,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 2855
+    },
+    {
+        "district": 9,
+        "electronic": 55,
+        "name": "Jaan \u00d5unapuu",
+        "number": 782,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1739
+    },
+    {
+        "district": 9,
+        "electronic": 37,
+        "name": "Margi Ein",
+        "number": 783,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1378
+    },
+    {
+        "district": 9,
+        "electronic": 21,
+        "name": "Mati Kepp",
+        "number": 786,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1041
+    },
+    {
+        "district": 9,
+        "electronic": 17,
+        "name": "Mai Treial",
+        "number": 785,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 922
+    },
+    {
+        "district": 9,
+        "electronic": 12,
+        "name": "Aivar Aleksejev",
+        "number": 784,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 391
+    },
+    {
+        "district": 9,
+        "electronic": 11,
+        "name": "Ingvar T\u0161i\u017eikov",
+        "number": 788,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 356
+    },
+    {
+        "district": 9,
+        "electronic": 9,
+        "name": "Sulev Kuus",
+        "number": 789,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 214
+    },
+    {
+        "district": 9,
+        "electronic": 3,
+        "name": "Maie Nisu",
+        "number": 787,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 205
+    },
+    {
+        "district": 9,
+        "electronic": 49,
+        "name": "J\u00fcri Morozov",
+        "number": 906,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1248
+    },
+    {
+        "district": 9,
+        "electronic": 35,
+        "name": "Meelis Paavel",
+        "number": 907,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 660
+    },
+    {
+        "district": 9,
+        "electronic": 12,
+        "name": "Kairit Pohla",
+        "number": 912,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 222
+    },
+    {
+        "district": 9,
+        "electronic": 10,
+        "name": "Jana Morozov",
+        "number": 908,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 183
+    },
+    {
+        "district": 9,
+        "electronic": 9,
+        "name": "Raivo Kiuru",
+        "number": 911,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 174
+    },
+    {
+        "district": 9,
+        "electronic": 9,
+        "name": "Uno Kiisholts",
+        "number": 910,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 163
+    },
+    {
+        "district": 9,
+        "electronic": 10,
+        "name": "Andrei Uksov",
+        "number": 914,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 123
+    },
+    {
+        "district": 9,
+        "electronic": 5,
+        "name": "Anne-Ly V\u00f5lli",
+        "number": 913,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 112
+    },
+    {
+        "district": 9,
+        "electronic": 2,
+        "name": "Raimond Poll",
+        "number": 909,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 94
+    },
+    {
+        "district": 9,
+        "electronic": 40,
+        "name": "Dagmar Mattiisen",
+        "number": 1031,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 916
+    },
+    {
+        "district": 9,
+        "electronic": 27,
+        "name": "Peeter Lepisk",
+        "number": 1033,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 314
+    },
+    {
+        "district": 9,
+        "electronic": 30,
+        "name": "Olavi Hiiem\u00e4e",
+        "number": 1035,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 311
+    },
+    {
+        "district": 9,
+        "electronic": 24,
+        "name": "Priit Truusalu",
+        "number": 1032,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 214
+    },
+    {
+        "district": 9,
+        "electronic": 13,
+        "name": "Rasmus Lahtvee",
+        "number": 1034,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 184
+    },
+    {
+        "district": 9,
+        "electronic": 10,
+        "name": "Elmer Joandi",
+        "number": 1037,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 93
+    },
+    {
+        "district": 9,
+        "electronic": 6,
+        "name": "Ivo-Hannes Lehtsalu",
+        "number": 1039,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 81
+    },
+    {
+        "district": 9,
+        "electronic": 1,
+        "name": "Ivo Kajak",
+        "number": 1036,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 72
+    },
+    {
+        "district": 9,
+        "electronic": 5,
+        "name": "Vladimir Redpap",
+        "number": 1038,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 43
+    },
+    {
+        "district": 9,
+        "electronic": 5,
+        "name": "T\u00f5nu Hallik",
+        "number": 1073,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 174
+    },
+    {
+        "district": 9,
+        "electronic": 0,
+        "name": "Kalev Kodu",
+        "number": 1074,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 35
+    },
+    {
+        "district": 10,
+        "electronic": 12,
+        "name": "Toivo Teekel",
+        "number": 180,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 263
+    },
+    {
+        "district": 10,
+        "electronic": 2,
+        "name": "Aarand Roos",
+        "number": 181,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 94
+    },
+    {
+        "district": 10,
+        "electronic": 2,
+        "name": "Marge Palm",
+        "number": 183,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 56
+    },
+    {
+        "district": 10,
+        "electronic": 6,
+        "name": "Rein Kolk",
+        "number": 185,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 53
+    },
+    {
+        "district": 10,
+        "electronic": 0,
+        "name": "Andres Ots",
+        "number": 186,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 36
+    },
+    {
+        "district": 10,
+        "electronic": 1,
+        "name": "I\u0161tvan Ban",
+        "number": 187,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 23
+    },
+    {
+        "district": 10,
+        "electronic": 1,
+        "name": "Peeter Randm\u00e4e",
+        "number": 182,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 16
+    },
+    {
+        "district": 10,
+        "electronic": 0,
+        "name": "Herk Haug",
+        "number": 184,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 3
+    },
+    {
+        "district": 10,
+        "electronic": 31,
+        "name": "Aadu Must",
+        "number": 303,
+        "party": "EESTI KESKERAKOND",
+        "votes": 2088
+    },
+    {
+        "district": 10,
+        "electronic": 15,
+        "name": "Nikolai P\u00f5dram\u00e4gi",
+        "number": 306,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1094
+    },
+    {
+        "district": 10,
+        "electronic": 17,
+        "name": "Sergei Teplov",
+        "number": 309,
+        "party": "EESTI KESKERAKOND",
+        "votes": 816
+    },
+    {
+        "district": 10,
+        "electronic": 19,
+        "name": "Diana Klas",
+        "number": 304,
+        "party": "EESTI KESKERAKOND",
+        "votes": 788
+    },
+    {
+        "district": 10,
+        "electronic": 9,
+        "name": "Vladimir \u0160okman",
+        "number": 305,
+        "party": "EESTI KESKERAKOND",
+        "votes": 652
+    },
+    {
+        "district": 10,
+        "electronic": 7,
+        "name": "Alar Pallon",
+        "number": 307,
+        "party": "EESTI KESKERAKOND",
+        "votes": 516
+    },
+    {
+        "district": 10,
+        "electronic": 5,
+        "name": "Jevgenia Lindevaldt",
+        "number": 308,
+        "party": "EESTI KESKERAKOND",
+        "votes": 429
+    },
+    {
+        "district": 10,
+        "electronic": 9,
+        "name": "Olev Raju",
+        "number": 312,
+        "party": "EESTI KESKERAKOND",
+        "votes": 398
+    },
+    {
+        "district": 10,
+        "electronic": 2,
+        "name": "Harri Jallajas",
+        "number": 310,
+        "party": "EESTI KESKERAKOND",
+        "votes": 212
+    },
+    {
+        "district": 10,
+        "electronic": 2,
+        "name": "Senta-Ellinor Michelson",
+        "number": 311,
+        "party": "EESTI KESKERAKOND",
+        "votes": 178
+    },
+    {
+        "district": 10,
+        "electronic": 583,
+        "name": "Laine J\u00e4nes",
+        "number": 428,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 9303
+    },
+    {
+        "district": 10,
+        "electronic": 149,
+        "name": "Hannes Astok",
+        "number": 429,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1465
+    },
+    {
+        "district": 10,
+        "electronic": 76,
+        "name": "Silver Meikar",
+        "number": 430,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 902
+    },
+    {
+        "district": 10,
+        "electronic": 71,
+        "name": "Helmer J\u00f5gi",
+        "number": 431,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 824
+    },
+    {
+        "district": 10,
+        "electronic": 51,
+        "name": "J\u00fcri Sasi",
+        "number": 437,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 790
+    },
+    {
+        "district": 10,
+        "electronic": 38,
+        "name": "Krista Kruuv",
+        "number": 433,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 583
+    },
+    {
+        "district": 10,
+        "electronic": 35,
+        "name": "Hele Everaus",
+        "number": 435,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 570
+    },
+    {
+        "district": 10,
+        "electronic": 21,
+        "name": "Mati Tolmoff",
+        "number": 434,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 424
+    },
+    {
+        "district": 10,
+        "electronic": 13,
+        "name": "Toivo Kabanen",
+        "number": 436,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 333
+    },
+    {
+        "district": 10,
+        "electronic": 10,
+        "name": "Oleg Nesterenko",
+        "number": 432,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 141
+    },
+    {
+        "district": 10,
+        "electronic": 3,
+        "name": "Malle Salupere",
+        "number": 480,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 91
+    },
+    {
+        "district": 10,
+        "electronic": 272,
+        "name": "T\u00f5nis Lukas",
+        "number": 577,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 3979
+    },
+    {
+        "district": 10,
+        "electronic": 216,
+        "name": "Peeter Tulviste",
+        "number": 578,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2424
+    },
+    {
+        "district": 10,
+        "electronic": 62,
+        "name": "Margus Tsahkna",
+        "number": 586,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 786
+    },
+    {
+        "district": 10,
+        "electronic": 33,
+        "name": "Peeter Laurson",
+        "number": 581,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 560
+    },
+    {
+        "district": 10,
+        "electronic": 52,
+        "name": "Mihhail Lotman",
+        "number": 579,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 559
+    },
+    {
+        "district": 10,
+        "electronic": 24,
+        "name": "Merle J\u00e4\u00e4ger",
+        "number": 583,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 422
+    },
+    {
+        "district": 10,
+        "electronic": 20,
+        "name": "Urmo K\u00f6\u00f6bi",
+        "number": 580,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 310
+    },
+    {
+        "district": 10,
+        "electronic": 21,
+        "name": "Toivo Maimets",
+        "number": 585,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 291
+    },
+    {
+        "district": 10,
+        "electronic": 14,
+        "name": "J\u00fcri K\u00f5re",
+        "number": 582,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 177
+    },
+    {
+        "district": 10,
+        "electronic": 6,
+        "name": "Uno Ainsoo",
+        "number": 584,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 99
+    },
+    {
+        "district": 10,
+        "electronic": 0,
+        "name": "Juri Desjatnikov",
+        "number": 640,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 81
+    },
+    {
+        "district": 10,
+        "electronic": 6,
+        "name": "Gennadi Suhhov",
+        "number": 690,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 196
+    },
+    {
+        "district": 10,
+        "electronic": 0,
+        "name": "Igor Goidin-Karlov",
+        "number": 691,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 31
+    },
+    {
+        "district": 10,
+        "electronic": 20,
+        "name": "Karel R\u00fc\u00fctli",
+        "number": 790,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 558
+    },
+    {
+        "district": 10,
+        "electronic": 6,
+        "name": "Aivar Soop",
+        "number": 793,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 204
+    },
+    {
+        "district": 10,
+        "electronic": 3,
+        "name": "Veera Sirg",
+        "number": 794,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 194
+    },
+    {
+        "district": 10,
+        "electronic": 4,
+        "name": "Roman Mugur",
+        "number": 791,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 171
+    },
+    {
+        "district": 10,
+        "electronic": 10,
+        "name": "Virginijus Brilis",
+        "number": 796,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 127
+    },
+    {
+        "district": 10,
+        "electronic": 7,
+        "name": "Karin Jaanson",
+        "number": 792,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 117
+    },
+    {
+        "district": 10,
+        "electronic": 4,
+        "name": "Maie Pastik",
+        "number": 797,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 101
+    },
+    {
+        "district": 10,
+        "electronic": 1,
+        "name": "\u00dclo Siimets",
+        "number": 798,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 66
+    },
+    {
+        "district": 10,
+        "electronic": 2,
+        "name": "Jaan Aitaja",
+        "number": 795,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 48
+    },
+    {
+        "district": 10,
+        "electronic": 5,
+        "name": "Helen Reino",
+        "number": 799,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 38
+    },
+    {
+        "district": 10,
+        "electronic": 123,
+        "name": "Heljo Pikhof",
+        "number": 915,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 2205
+    },
+    {
+        "district": 10,
+        "electronic": 175,
+        "name": "Mart Meri",
+        "number": 916,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 2144
+    },
+    {
+        "district": 10,
+        "electronic": 52,
+        "name": "Jarno Laur",
+        "number": 924,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 583
+    },
+    {
+        "district": 10,
+        "electronic": 38,
+        "name": "Toomas J\u00fcrgenstein",
+        "number": 923,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 451
+    },
+    {
+        "district": 10,
+        "electronic": 5,
+        "name": "Arno Arukask",
+        "number": 919,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 143
+    },
+    {
+        "district": 10,
+        "electronic": 15,
+        "name": "Laura Paide",
+        "number": 920,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 114
+    },
+    {
+        "district": 10,
+        "electronic": 7,
+        "name": "T\u00f5nu Ints",
+        "number": 918,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 111
+    },
+    {
+        "district": 10,
+        "electronic": 3,
+        "name": "Rita Hade",
+        "number": 922,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 100
+    },
+    {
+        "district": 10,
+        "electronic": 1,
+        "name": "Ene Linn",
+        "number": 921,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 81
+    },
+    {
+        "district": 10,
+        "electronic": 4,
+        "name": "Viktoria Neborjakina",
+        "number": 917,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 64
+    },
+    {
+        "district": 10,
+        "electronic": 129,
+        "name": "Toomas Trapido",
+        "number": 1040,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1691
+    },
+    {
+        "district": 10,
+        "electronic": 59,
+        "name": "Peep Mardiste",
+        "number": 1044,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 466
+    },
+    {
+        "district": 10,
+        "electronic": 35,
+        "name": "Ain Raal",
+        "number": 1041,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 414
+    },
+    {
+        "district": 10,
+        "electronic": 23,
+        "name": "Kadi Gross",
+        "number": 1042,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 391
+    },
+    {
+        "district": 10,
+        "electronic": 4,
+        "name": "Randel Kreitsberg",
+        "number": 1049,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 173
+    },
+    {
+        "district": 10,
+        "electronic": 7,
+        "name": "Ruth Tammeorg",
+        "number": 1045,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 117
+    },
+    {
+        "district": 10,
+        "electronic": 11,
+        "name": "Sirli Pehme",
+        "number": 1048,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 116
+    },
+    {
+        "district": 10,
+        "electronic": 3,
+        "name": "Karin Jallai",
+        "number": 1047,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 107
+    },
+    {
+        "district": 10,
+        "electronic": 11,
+        "name": "Urmas Makrjakov",
+        "number": 1043,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 71
+    },
+    {
+        "district": 10,
+        "electronic": 2,
+        "name": "Ene Savolainen",
+        "number": 1046,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 47
+    },
+    {
+        "district": 11,
+        "electronic": 3,
+        "name": "Veiko Teekel",
+        "number": 189,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 158
+    },
+    {
+        "district": 11,
+        "electronic": 3,
+        "name": "Ago Rand",
+        "number": 188,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 123
+    },
+    {
+        "district": 11,
+        "electronic": 4,
+        "name": "Enar Jallai",
+        "number": 190,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 72
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "Tea Land",
+        "number": 195,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 69
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "T\u00f5nu Hendrikson",
+        "number": 197,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 63
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Enno Hansson",
+        "number": 196,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 49
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Riina Palmik",
+        "number": 194,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 45
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Anatoli B\u00f5strov",
+        "number": 191,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 37
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Kaire Ever",
+        "number": 198,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 27
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Martti Paju",
+        "number": 193,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 22
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "Evelin Maripuu",
+        "number": 192,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 18
+    },
+    {
+        "district": 11,
+        "electronic": 57,
+        "name": "Heimar Lenk",
+        "number": 313,
+        "party": "EESTI KESKERAKOND",
+        "votes": 3711
+    },
+    {
+        "district": 11,
+        "electronic": 44,
+        "name": "Inara Luigas",
+        "number": 314,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1910
+    },
+    {
+        "district": 11,
+        "electronic": 21,
+        "name": "Georg Pelisaar",
+        "number": 323,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1030
+    },
+    {
+        "district": 11,
+        "electronic": 15,
+        "name": "Toivo Tootsen",
+        "number": 315,
+        "party": "EESTI KESKERAKOND",
+        "votes": 761
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "Elmar-Johannes Truu",
+        "number": 318,
+        "party": "EESTI KESKERAKOND",
+        "votes": 754
+    },
+    {
+        "district": 11,
+        "electronic": 16,
+        "name": "Toivo P\u00f5ldma",
+        "number": 316,
+        "party": "EESTI KESKERAKOND",
+        "votes": 522
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "T\u00f5nu Anton",
+        "number": 317,
+        "party": "EESTI KESKERAKOND",
+        "votes": 469
+    },
+    {
+        "district": 11,
+        "electronic": 7,
+        "name": "Maie Niit",
+        "number": 321,
+        "party": "EESTI KESKERAKOND",
+        "votes": 376
+    },
+    {
+        "district": 11,
+        "electronic": 4,
+        "name": "Helle Virt",
+        "number": 322,
+        "party": "EESTI KESKERAKOND",
+        "votes": 324
+    },
+    {
+        "district": 11,
+        "electronic": 8,
+        "name": "Lembit Sikk",
+        "number": 319,
+        "party": "EESTI KESKERAKOND",
+        "votes": 257
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Endel Uppin",
+        "number": 320,
+        "party": "EESTI KESKERAKOND",
+        "votes": 196
+    },
+    {
+        "district": 11,
+        "electronic": 145,
+        "name": "Urmas Klaas",
+        "number": 440,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 3258
+    },
+    {
+        "district": 11,
+        "electronic": 112,
+        "name": "Margus Lepik",
+        "number": 438,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 2176
+    },
+    {
+        "district": 11,
+        "electronic": 86,
+        "name": "Ivi Eenmaa",
+        "number": 439,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 2150
+    },
+    {
+        "district": 11,
+        "electronic": 104,
+        "name": "Mait Klaassen",
+        "number": 441,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1820
+    },
+    {
+        "district": 11,
+        "electronic": 19,
+        "name": "Tiit T\u00f5nts",
+        "number": 443,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 427
+    },
+    {
+        "district": 11,
+        "electronic": 17,
+        "name": "Aivar Rosenberg",
+        "number": 446,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 398
+    },
+    {
+        "district": 11,
+        "electronic": 15,
+        "name": "Kaido K\u00f5iv",
+        "number": 447,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 374
+    },
+    {
+        "district": 11,
+        "electronic": 45,
+        "name": "Margus Timmo",
+        "number": 442,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 367
+    },
+    {
+        "district": 11,
+        "electronic": 18,
+        "name": "Heikki Kadaja",
+        "number": 445,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 289
+    },
+    {
+        "district": 11,
+        "electronic": 13,
+        "name": "Linnu-Lydia Mae",
+        "number": 444,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 239
+    },
+    {
+        "district": 11,
+        "electronic": 3,
+        "name": "Igor Jallai",
+        "number": 448,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 131
+    },
+    {
+        "district": 11,
+        "electronic": 5,
+        "name": "Vello Leito",
+        "number": 469,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 133
+    },
+    {
+        "district": 11,
+        "electronic": 6,
+        "name": "Andreas J\u00f5esaar",
+        "number": 481,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 34
+    },
+    {
+        "district": 11,
+        "electronic": 191,
+        "name": "Erki Nool",
+        "number": 587,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 3178
+    },
+    {
+        "district": 11,
+        "electronic": 33,
+        "name": "\u00dclo Tulik",
+        "number": 588,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 920
+    },
+    {
+        "district": 11,
+        "electronic": 37,
+        "name": "Tiit Niilo",
+        "number": 592,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 741
+    },
+    {
+        "district": 11,
+        "electronic": 25,
+        "name": "Andres K\u00f5iv",
+        "number": 589,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 438
+    },
+    {
+        "district": 11,
+        "electronic": 13,
+        "name": "Kalle Vister",
+        "number": 593,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 350
+    },
+    {
+        "district": 11,
+        "electronic": 17,
+        "name": "Elmut Paavel",
+        "number": 590,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 323
+    },
+    {
+        "district": 11,
+        "electronic": 15,
+        "name": "Indrek Kalda",
+        "number": 594,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 193
+    },
+    {
+        "district": 11,
+        "electronic": 11,
+        "name": "Kurmet M\u00fc\u00fcrsepp",
+        "number": 596,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 171
+    },
+    {
+        "district": 11,
+        "electronic": 13,
+        "name": "Kadri J\u00e4\u00e4tma",
+        "number": 591,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 125
+    },
+    {
+        "district": 11,
+        "electronic": 4,
+        "name": "Raul Lusti",
+        "number": 595,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 108
+    },
+    {
+        "district": 11,
+        "electronic": 5,
+        "name": "Jaanus Barkala",
+        "number": 597,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 103
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "Lilia Veiss",
+        "number": 641,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 26
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Aleksander Artju\u0161ihin",
+        "number": 692,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 71
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Aleksander Petrov",
+        "number": 693,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 35
+    },
+    {
+        "district": 11,
+        "electronic": 36,
+        "name": "Ester Tuiksoo",
+        "number": 802,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1722
+    },
+    {
+        "district": 11,
+        "electronic": 33,
+        "name": "Rein Randver",
+        "number": 800,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1576
+    },
+    {
+        "district": 11,
+        "electronic": 8,
+        "name": "Janno Reiljan",
+        "number": 801,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1143
+    },
+    {
+        "district": 11,
+        "electronic": 6,
+        "name": "Arno Sild",
+        "number": 804,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 542
+    },
+    {
+        "district": 11,
+        "electronic": 9,
+        "name": "Jaanus Raidal",
+        "number": 805,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 408
+    },
+    {
+        "district": 11,
+        "electronic": 16,
+        "name": "\u00dclo Needo",
+        "number": 806,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 381
+    },
+    {
+        "district": 11,
+        "electronic": 6,
+        "name": "\u00dclle Juht",
+        "number": 803,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 337
+    },
+    {
+        "district": 11,
+        "electronic": 11,
+        "name": "Kalli Uibokand",
+        "number": 810,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 227
+    },
+    {
+        "district": 11,
+        "electronic": 4,
+        "name": "Olav Hoop",
+        "number": 807,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 94
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Andrus Murumets",
+        "number": 809,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 66
+    },
+    {
+        "district": 11,
+        "electronic": 3,
+        "name": "Rudo Lilleleht",
+        "number": 808,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 27
+    },
+    {
+        "district": 11,
+        "electronic": 251,
+        "name": "Ivari Padar",
+        "number": 925,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 5522
+    },
+    {
+        "district": 11,
+        "electronic": 37,
+        "name": "Kalvi K\u00f5va",
+        "number": 928,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 986
+    },
+    {
+        "district": 11,
+        "electronic": 23,
+        "name": "Sirje Tobreluts",
+        "number": 926,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 534
+    },
+    {
+        "district": 11,
+        "electronic": 18,
+        "name": "Rein J\u00e4rvelill",
+        "number": 929,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 317
+    },
+    {
+        "district": 11,
+        "electronic": 19,
+        "name": "Madis Gross",
+        "number": 927,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 269
+    },
+    {
+        "district": 11,
+        "electronic": 16,
+        "name": "\u00dclle Kauksi",
+        "number": 931,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 205
+    },
+    {
+        "district": 11,
+        "electronic": 15,
+        "name": "Kaido Palu",
+        "number": 932,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 138
+    },
+    {
+        "district": 11,
+        "electronic": 9,
+        "name": "Kaido Tamberg",
+        "number": 935,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 115
+    },
+    {
+        "district": 11,
+        "electronic": 9,
+        "name": "J\u00fcri Teder",
+        "number": 930,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 111
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Anne Parmas",
+        "number": 933,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 87
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "Anneli Luisk",
+        "number": 934,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 76
+    },
+    {
+        "district": 11,
+        "electronic": 62,
+        "name": "Evar Riitsaar",
+        "number": 1050,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 902
+    },
+    {
+        "district": 11,
+        "electronic": 41,
+        "name": "Pille Tomson",
+        "number": 1051,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 440
+    },
+    {
+        "district": 11,
+        "electronic": 25,
+        "name": "Airi Hallik-Konnula",
+        "number": 1054,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 333
+    },
+    {
+        "district": 11,
+        "electronic": 19,
+        "name": "Peep Tobreluts",
+        "number": 1052,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 253
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Andres Ots",
+        "number": 1053,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 173
+    },
+    {
+        "district": 11,
+        "electronic": 4,
+        "name": "Toomas Kiil",
+        "number": 1060,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 87
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Zoja Mellov",
+        "number": 1055,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 81
+    },
+    {
+        "district": 11,
+        "electronic": 2,
+        "name": "Neeme Aabrams",
+        "number": 1058,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 69
+    },
+    {
+        "district": 11,
+        "electronic": 3,
+        "name": "Taimi Asu",
+        "number": 1057,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 51
+    },
+    {
+        "district": 11,
+        "electronic": 0,
+        "name": "Kristo Kaaring",
+        "number": 1056,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 37
+    },
+    {
+        "district": 11,
+        "electronic": 1,
+        "name": "Malle Tammlaan",
+        "number": 1059,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 13
+    },
+    {
+        "district": 12,
+        "electronic": 8,
+        "name": "Enn Veesalu",
+        "number": 199,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 202
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Janno Peensalu",
+        "number": 200,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 88
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Anne Kontus Hermann",
+        "number": 201,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 65
+    },
+    {
+        "district": 12,
+        "electronic": 0,
+        "name": "Anne-Ly Look",
+        "number": 203,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 39
+    },
+    {
+        "district": 12,
+        "electronic": 1,
+        "name": "Alice P\u00e4rnits",
+        "number": 206,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 39
+    },
+    {
+        "district": 12,
+        "electronic": 2,
+        "name": "Robert Sosaar",
+        "number": 205,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 31
+    },
+    {
+        "district": 12,
+        "electronic": 0,
+        "name": "Aleksandr Krjukov",
+        "number": 202,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 29
+    },
+    {
+        "district": 12,
+        "electronic": 1,
+        "name": "Aivar Pahk",
+        "number": 204,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 23
+    },
+    {
+        "district": 12,
+        "electronic": 0,
+        "name": "Liivi Ellermaa",
+        "number": 208,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 16
+    },
+    {
+        "district": 12,
+        "electronic": 0,
+        "name": "Edyt Lust",
+        "number": 207,
+        "party": "ERAKOND EESTI KRISTLIKUD DEMOKRAADID",
+        "votes": 12
+    },
+    {
+        "district": 12,
+        "electronic": 37,
+        "name": "Kalle Laanet",
+        "number": 324,
+        "party": "EESTI KESKERAKOND",
+        "votes": 2260
+    },
+    {
+        "district": 12,
+        "electronic": 19,
+        "name": "Kadri Must",
+        "number": 325,
+        "party": "EESTI KESKERAKOND",
+        "votes": 2008
+    },
+    {
+        "district": 12,
+        "electronic": 25,
+        "name": "Margus Tammekivi",
+        "number": 326,
+        "party": "EESTI KESKERAKOND",
+        "votes": 1128
+    },
+    {
+        "district": 12,
+        "electronic": 17,
+        "name": "Koit Pikaro",
+        "number": 327,
+        "party": "EESTI KESKERAKOND",
+        "votes": 992
+    },
+    {
+        "district": 12,
+        "electronic": 20,
+        "name": "Ramon Loik",
+        "number": 328,
+        "party": "EESTI KESKERAKOND",
+        "votes": 804
+    },
+    {
+        "district": 12,
+        "electronic": 5,
+        "name": "Hillar Talvik",
+        "number": 332,
+        "party": "EESTI KESKERAKOND",
+        "votes": 517
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Mart Viisitamm",
+        "number": 333,
+        "party": "EESTI KESKERAKOND",
+        "votes": 506
+    },
+    {
+        "district": 12,
+        "electronic": 4,
+        "name": "Kalmer H\u00fctt",
+        "number": 331,
+        "party": "EESTI KESKERAKOND",
+        "votes": 251
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Aivar Pikkmets",
+        "number": 330,
+        "party": "EESTI KESKERAKOND",
+        "votes": 219
+    },
+    {
+        "district": 12,
+        "electronic": 4,
+        "name": "Raivo Palmaru",
+        "number": 329,
+        "party": "EESTI KESKERAKOND",
+        "votes": 138
+    },
+    {
+        "district": 12,
+        "electronic": 157,
+        "name": "Mati Raidma",
+        "number": 449,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 3694
+    },
+    {
+        "district": 12,
+        "electronic": 150,
+        "name": "V\u00e4ino Linde",
+        "number": 450,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 2855
+    },
+    {
+        "district": 12,
+        "electronic": 76,
+        "name": "J\u00fcri Vlassov",
+        "number": 456,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 1877
+    },
+    {
+        "district": 12,
+        "electronic": 55,
+        "name": "V\u00e4ino Hallikm\u00e4gi",
+        "number": 451,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 782
+    },
+    {
+        "district": 12,
+        "electronic": 27,
+        "name": "Andrus Soopalu",
+        "number": 454,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 437
+    },
+    {
+        "district": 12,
+        "electronic": 18,
+        "name": "Mati Mettus",
+        "number": 453,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 344
+    },
+    {
+        "district": 12,
+        "electronic": 18,
+        "name": "Erki Melts",
+        "number": 457,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 291
+    },
+    {
+        "district": 12,
+        "electronic": 17,
+        "name": "J\u00fcri Lebedev",
+        "number": 458,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 277
+    },
+    {
+        "district": 12,
+        "electronic": 16,
+        "name": "Diana Beltadze",
+        "number": 452,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 253
+    },
+    {
+        "district": 12,
+        "electronic": 24,
+        "name": "Kalev P\u00e4it",
+        "number": 455,
+        "party": "EESTI REFORMIERAKOND",
+        "votes": 193
+    },
+    {
+        "district": 12,
+        "electronic": 13,
+        "name": "Leo Tammiksaar",
+        "number": 470,
+        "party": "EESTI ISESEISVUSPARTEI",
+        "votes": 243
+    },
+    {
+        "district": 12,
+        "electronic": 1,
+        "name": "Kristina Vilbaste",
+        "number": 482,
+        "party": "EESTI VASAKPARTEI",
+        "votes": 43
+    },
+    {
+        "district": 12,
+        "electronic": 195,
+        "name": "Trivimi Velliste",
+        "number": 598,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 2982
+    },
+    {
+        "district": 12,
+        "electronic": 99,
+        "name": "K\u00fclvar Mand",
+        "number": 599,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 1608
+    },
+    {
+        "district": 12,
+        "electronic": 37,
+        "name": "Mati Sutt",
+        "number": 604,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 603
+    },
+    {
+        "district": 12,
+        "electronic": 22,
+        "name": "J\u00fcri Kask",
+        "number": 601,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 569
+    },
+    {
+        "district": 12,
+        "electronic": 30,
+        "name": "Ela Tomson",
+        "number": 600,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 526
+    },
+    {
+        "district": 12,
+        "electronic": 38,
+        "name": "Mart Alliku",
+        "number": 607,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 498
+    },
+    {
+        "district": 12,
+        "electronic": 17,
+        "name": "Urmas Aava",
+        "number": 603,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 433
+    },
+    {
+        "district": 12,
+        "electronic": 24,
+        "name": "Erik Reinhold",
+        "number": 602,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 273
+    },
+    {
+        "district": 12,
+        "electronic": 15,
+        "name": "Raul Sarandi",
+        "number": 606,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 207
+    },
+    {
+        "district": 12,
+        "electronic": 7,
+        "name": "Mart Kutsar",
+        "number": 605,
+        "party": "ERAKOND ISAMAA JA RES PUBLICA LIIT",
+        "votes": 155
+    },
+    {
+        "district": 12,
+        "electronic": 2,
+        "name": "Svetlana Dedova",
+        "number": 642,
+        "party": "VENE ERAKOND EESTIS",
+        "votes": 78
+    },
+    {
+        "district": 12,
+        "electronic": 2,
+        "name": "Vjat\u0161eslav Makaronski",
+        "number": 694,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 91
+    },
+    {
+        "district": 12,
+        "electronic": 0,
+        "name": "Marina Prudnikova",
+        "number": 695,
+        "party": "KONSTITUTSIOONIERAKOND",
+        "votes": 44
+    },
+    {
+        "district": 12,
+        "electronic": 24,
+        "name": "Jaanus M\u00e4nnik",
+        "number": 811,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 1181
+    },
+    {
+        "district": 12,
+        "electronic": 34,
+        "name": "Kuno Erkmann",
+        "number": 813,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 785
+    },
+    {
+        "district": 12,
+        "electronic": 8,
+        "name": "Toomas Alatalu",
+        "number": 812,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 292
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Vilja Alamaa",
+        "number": 815,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 236
+    },
+    {
+        "district": 12,
+        "electronic": 6,
+        "name": "Jaan Urb",
+        "number": 816,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 187
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Riho Erismaa",
+        "number": 820,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 138
+    },
+    {
+        "district": 12,
+        "electronic": 6,
+        "name": "Cardo Remmel",
+        "number": 814,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 136
+    },
+    {
+        "district": 12,
+        "electronic": 0,
+        "name": "Lembit Rebane",
+        "number": 817,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 118
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "\u00dclle Varik",
+        "number": 818,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 100
+    },
+    {
+        "district": 12,
+        "electronic": 3,
+        "name": "Kalev Kaljuste",
+        "number": 819,
+        "party": "EESTIMAA RAHVALIIT",
+        "votes": 98
+    },
+    {
+        "district": 12,
+        "electronic": 54,
+        "name": "Mark Soosaar",
+        "number": 937,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1374
+    },
+    {
+        "district": 12,
+        "electronic": 69,
+        "name": "Marianne Mikko",
+        "number": 936,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 1231
+    },
+    {
+        "district": 12,
+        "electronic": 30,
+        "name": "Epp Klooster",
+        "number": 938,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 634
+    },
+    {
+        "district": 12,
+        "electronic": 20,
+        "name": "Valter Parve",
+        "number": 939,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 245
+    },
+    {
+        "district": 12,
+        "electronic": 9,
+        "name": "Mercedes Merimaa",
+        "number": 940,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 219
+    },
+    {
+        "district": 12,
+        "electronic": 13,
+        "name": "Jaan Krinal",
+        "number": 943,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 170
+    },
+    {
+        "district": 12,
+        "electronic": 4,
+        "name": "Raimu Pruul",
+        "number": 941,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 138
+    },
+    {
+        "district": 12,
+        "electronic": 4,
+        "name": "Urve Vesik",
+        "number": 945,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 108
+    },
+    {
+        "district": 12,
+        "electronic": 6,
+        "name": "Peeter Kaljum\u00e4e",
+        "number": 944,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 106
+    },
+    {
+        "district": 12,
+        "electronic": 2,
+        "name": "Kaja Must",
+        "number": 942,
+        "party": "SOTSIAALDEMOKRAATLIK ERAKOND",
+        "votes": 60
+    },
+    {
+        "district": 12,
+        "electronic": 90,
+        "name": "Mart J\u00fcssi",
+        "number": 1061,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 1265
+    },
+    {
+        "district": 12,
+        "electronic": 46,
+        "name": "Tarmo K\u00f5uts",
+        "number": 1062,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 759
+    },
+    {
+        "district": 12,
+        "electronic": 20,
+        "name": "Andres Siplane",
+        "number": 1065,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 349
+    },
+    {
+        "district": 12,
+        "electronic": 10,
+        "name": "Paul Lettens",
+        "number": 1063,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 322
+    },
+    {
+        "district": 12,
+        "electronic": 9,
+        "name": "Urmas Lekk",
+        "number": 1069,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 160
+    },
+    {
+        "district": 12,
+        "electronic": 2,
+        "name": "Urmas Song",
+        "number": 1067,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 94
+    },
+    {
+        "district": 12,
+        "electronic": 1,
+        "name": "Aino V\u00e4rbu",
+        "number": 1064,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 85
+    },
+    {
+        "district": 12,
+        "electronic": 6,
+        "name": "Kaupo Vipp",
+        "number": 1066,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 83
+    },
+    {
+        "district": 12,
+        "electronic": 9,
+        "name": "Targo Pikkmets",
+        "number": 1068,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 79
+    },
+    {
+        "district": 12,
+        "electronic": 1,
+        "name": "Lembit Paan",
+        "number": 1070,
+        "party": "ERAKOND EESTIMAA ROHELISED",
+        "votes": 36
+    },
+    {
+        "district": 12,
+        "electronic": 6,
+        "name": "Aare Kambla",
+        "number": 1077,
+        "party": "\u00dcKSIKKANDIDAADID",
+        "votes": 92
+    }
+]
